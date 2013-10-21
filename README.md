@@ -120,6 +120,10 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [luainspect](http://lua-users.org/wiki/LuaInspect) is yet another dead linter.
 
+## Pascall
+
+[fpc](http://www.freepascal.org/) offers a `-vw` flag to show additional warnings.
+
 ## Perl
 
 [perl](http://www.perl.org/) offers extra warnings through the `use warnings;` (`#!/usr/bin/env perl -w`) and `use strict;` options.
