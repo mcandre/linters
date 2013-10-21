@@ -4,9 +4,9 @@
 
 Originally, `lint` was a tool for scanning `.c` code for additional, stricter warnings. By statically analyzing the code itself before compilation, programmers could maintain a higher level of code discipline, increasing the reliability of the code in multiple compilers and environments.
 
-As time went on, static code analysis was eclipsed by dynamic analysis: unit tests, that examined how the compiled code runs against different inputs and corner cases. Today, linters are used to supplement unit tests, and even provide stylistic checks, in large projects where programmers may attempt to use competing coding styles.
+As time went on, static code analysis was eclipsed by dynamic analysis: [unit tests](https://en.wikipedia.org/wiki/Unit_test), that examine how code behaves for different inputs and corner cases.
 
-Linters exist for many programming languages and document formats, detailed below.
+Today, linters are used to supplement unit tests, serving primarily as low priority style checkers. Linters are being written for many programming languages and document formats, detailed below.
 
 [Wikipedia:List of tools for static analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 
