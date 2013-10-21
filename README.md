@@ -112,6 +112,8 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [lualint](https://github.com/philips/lualint) is an early Lua linter.
 
+[lua-checker](https://code.google.com/p/lua-checker/) is another old Lua linter.
+
 ## Perl
 
 [perl](http://www.perl.org/) offers extra warnings through the `use warnings;` (`#!/usr/bin/env perl -w`) and `use strict;` options.
