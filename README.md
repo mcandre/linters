@@ -64,6 +64,10 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [csstidy](http://csstidy.sourceforge.net/) can help compress CSS files.
 
+## D
+
+[gdc](http://dlang.org/) offers a builtin `-Wall` flag for additional warnings.
+
 ## Erlang
 
 [erl_tidy](http://www.erlang.org/doc/man/erl_tidy.html), a library that comes with Erlang, attempts to automatically change unidiomatic code.
