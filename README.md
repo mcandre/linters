@@ -158,6 +158,10 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [metric_fu](https://github.com/metricfu/metric_fu) scans with a suite of Ruby linters.
 
+## Rust
+
+[rustc](http://www.rust-lang.org/), the Rust compiler, offers a `-Wall` option for additional warnings.
+
 ## Sass
 
 [sasslint](https://github.com/dfltr/Sasslint) for Sass files.
