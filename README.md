@@ -12,6 +12,10 @@ Linters exist for many programming languages and document formats, detailed belo
 
 # Linters
 
+## *
+
+[astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
+
 ## C
 
 [splint](http://splint.org/) has largely replaced the old `lint` tool, offering the same old checks, as well as additional security checks.
@@ -171,3 +175,13 @@ Linters exist for many programming languages and document formats, detailed belo
 ## XML
 
 [xmllint](https://en.wikipedia.org/wiki/Libxml2) is provided as part of the `libxml2` package.
+
+# Continuous Integration
+
+A [Jenkins](http://jenkins-ci.org/) server can generate linter reports on new code commits.
+
+[Guard](http://guardgem.org/) + [guard-shell](https://github.com/guard/guard-shell) can monitor local code files, automatically outputting linter warnings as the programmer edits his code, simulating a local continuous integration server.
+
+A [make](https://www.gnu.org/software/make/) task can bundle several linters together (e.g. `csslint`, HTML `tidy`, `jshint`), to lint different kinds of files all at once.
+
+[git hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks) can be added to a git repo, preventing a programmer from submitting his work until it passes a configured suite of linters.
