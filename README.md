@@ -178,7 +178,7 @@ Linters exist for many programming languages and document formats, detailed belo
 
 # Continuous Integration
 
-A [Jenkins](http://jenkins-ci.org/) server can generate linter reports on new code commits.
+A [Jenkins](http://jenkins-ci.org/) server can generate HTML linter reports for each new code commit.
 
 [Guard](http://guardgem.org/) + [guard-shell](https://github.com/guard/guard-shell) can monitor local code files, automatically outputting linter warnings as the programmer edits his code, simulating a local continuous integration server.
 
