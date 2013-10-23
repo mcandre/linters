@@ -114,6 +114,8 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 ## Lua
 
+[luac](http://www.lua.org/manual/4.0/luac.html) offers a builtin `-p` option for syntax validation..
+
 [lualint](https://github.com/philips/lualint) is an early Lua linter.
 
 [lua-checker](https://code.google.com/p/lua-checker/) is another old Lua linter.
