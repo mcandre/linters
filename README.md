@@ -68,6 +68,12 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [gdc](http://dlang.org/) offers a builtin `-Wall` flag for additional warnings.
 
+## Elisp
+
+[elisp-lint](https://github.com/nschum/elisp-lint)
+
+[elint](http://repo.or.cz/w/emacs.git/blob/03e680f0ad11461b40b8d07e99541e2cd32681ae:/lisp/emacs-lisp/elint.el)
+
 ## Erlang
 
 [erl_tidy](http://www.erlang.org/doc/man/erl_tidy.html), a library that comes with Erlang, attempts to automatically change unidiomatic code.
@@ -76,9 +82,23 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [dialyzer](http://www.erlang.org/doc/man/dialyzer.html), a tool that comes with Erlang, helps detect type errors.
 
+## F#
+
+[fantomas](https://github.com/dungpa/fantomas)
+
+## Fortran
+
+[fortranlint](http://stellar.cleanscape.net/products/fortranlint/)
+
 ## Go
 
 [golint](https://github.com/bytbox/golint) is an early stage Go linter.
+
+[lint](https://github.com/golang/lint)
+
+## Groovy
+
+[CodeNarc](http://codenarc.sourceforge.net)
 
 ## Haskell
 
@@ -122,6 +142,10 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [luainspect](http://lua-users.org/wiki/LuaInspect) is yet another dead linter.
 
+## OCaml
+
+[mascot](http://mascot.x9c.fr/)
+
 ## Pascall
 
 [fpc](http://www.freepascal.org/) offers a `-vw` flag to show additional warnings.
@@ -145,6 +169,10 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 [PyLint](http://www.pylint.org/)
 
 [PyFlakes](https://pypi.python.org/pypi/pyflakes)
+
+## R
+
+CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) package.
 
 ## Racket
 
@@ -183,6 +211,8 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 ## Scala
 
 [Scalastyle](http://www.scalastyle.org/) offers CLI, SBT, and Maven interfaces to a flexible, extensible Scala linter.
+
+[wartremover](https://github.com/puffnfresh/wartremover)
 
 [linter](https://github.com/foursquare/linter) is an early Scala linter.
 
