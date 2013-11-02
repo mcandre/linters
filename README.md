@@ -22,15 +22,17 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [lint](http://www.unix.com/man-page/FreeBSD/1/lint) the original.
 
-[gcc](http://gcc.gnu.org/) offers additional warnings, through its `-Wall` option.
+[gcc](http://gcc.gnu.org/) offers additional warnings, through its `-Wall` and `-Wextra` options.
 
-[clang](http://clang.llvm.org/) offers additional warnings, through its `-Wall` option.
+[clang](http://clang.llvm.org/) offers even more warnings, through its `-Wall`, `-Wextra`, `-Wmost`, and `-Weverything` options.
 
 [sparse](https://sparse.wiki.kernel.org/index.php/Main_Page) is designed to find potential sources of program faults.
 
 ## C++
 
 [cppcheck](http://cppcheck.sourceforge.net/) can check `.cpp` implementation code, as well as `.h` definition code.
+
+g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-Wall` and `-Wextra` options.
 
 [cpplint](https://code.google.com/p/google-styleguide/) is provided as part of the `google-styleguide`.
 
