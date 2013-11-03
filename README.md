@@ -12,6 +12,8 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 # Linters
 
+Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for even more warnings, and also `-Werror` to treat warnings as errors, preventing dirty code from compiling.
+
 ## *
 
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
