@@ -152,7 +152,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 ## Objective C
 
-[clang](http://clang.llvm.org/) offers builtin options `-Wall`, `-Wextra`, `-Wmore`, and `-Weverything` for showing additional compiler warnings.
+[clang](http://clang.llvm.org/) offers builtin options `-Wall`, `-Wextra`, `-Wmost`, and `-Weverything` for showing additional compiler warnings.
 
 [OCLint](http://oclint.org/) can lint ObjC, C, and C++ code.
 
