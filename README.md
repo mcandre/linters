@@ -72,6 +72,10 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [gdc](http://dlang.org/) offers a builtin `-Wall` flag for additional warnings.
 
+## Dart
+
+`pub publish` offers a `--dry-run` option.
+
 ## Elisp
 
 [elisp-lint](https://github.com/nschum/elisp-lint)
