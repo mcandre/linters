@@ -126,7 +126,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 In Java 8, javac will feature an `-Xdoclint` option to identify undocumented code.
 
-[CheckStyle](http://checkstyle.sourceforge.net/), with decent CLI support, as well as decent Maven support, through [maven-checkstyle-plugin](http://maven.apache.org/plugins/maven-checkstyle-plugin/).
+[CheckStyle](http://checkstyle.sourceforge.net/), with decent CLI support, as well as decent Maven support, through [maven-checkstyle-plugin](http://maven.apache.org/plugins/maven-checkstyle-plugin/). Checkstyle also supports identifying undocumented code, through its <a href="http://checkstyle.sourceforge.net/config_javadoc.html">JavaDoc</a> settings.
 
 [PMD](http://pmd.sourceforge.net/) detects flaws and duplicated code.
 
