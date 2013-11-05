@@ -124,6 +124,8 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [javac](http://www.oracle.com/technetwork/java/javase/downloads/index.html) offers a `-Xlint` option to print additional warnings. The [maven-compiler-plugin](https://maven.apache.org/plugins/maven-compiler-plugin/compile-mojo.html) can be configured to automatically pass `-Xlint` to the underlying Java compiler every time a project is built.
 
+In Java 8, javac will feature an `-Xdoclint` option to identify undocumented code.
+
 [CheckStyle](http://checkstyle.sourceforge.net/), with decent CLI support, as well as decent Maven support, through [maven-checkstyle-plugin](http://maven.apache.org/plugins/maven-checkstyle-plugin/).
 
 [PMD](http://pmd.sourceforge.net/) detects flaws and duplicated code.
