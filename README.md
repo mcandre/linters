@@ -200,19 +200,21 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [reek](https://github.com/troessner/reek) has an extensive list of checks for improving your code.
 
-[flog](http://ruby.sadi.st/Flog.html) helps to make code more amenable to unit testing.
-
 [flay](https://github.com/seattlerb/flay) looks for repeated code patterns, recommending ways to reduce boilerplate and increase reliability.
-
-[heckle](http://ruby.sadi.st/Heckle.html) performs mutation testing.
 
 [roodi](https://github.com/roodi/roodi) is an old design pattern linter.
 
+[cane](https://github.com/square/cane) applies code quality checks, and can be used to fail a build on encountering poor quality code.
+
+[excellent](https://github.com/simplabs/excellent) is easy to use and configure.
+
+[heckle](http://ruby.sadi.st/Heckle.html) performs mutation testing.
+
 [saikuro](https://github.com/metricfu/Saikuro) examines code complexity.
 
-[churn](https://github.com/danmayer/churn) looks at version control history to look for frequently changing code, often a sign of poor coding.
+[flog](http://ruby.sadi.st/Flog.html) identifies the most complex code in your codebase.
 
-[cane](https://github.com/square/cane) applies code quality checks, and can be used to fail a build on encountering poor quality code.
+[churn](https://github.com/danmayer/churn) looks at version control history to look for frequently changing code, often a sign of poor coding.
 
 [metric_fu](https://github.com/metricfu/metric_fu) scans with a suite of Ruby linters.
 
