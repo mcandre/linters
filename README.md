@@ -212,6 +212,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [saikuro](https://github.com/metricfu/Saikuro) examines code complexity. Saikuro is currently incompatible with Ruby 1.9/2.0.
 
+[brakeman](https://github.com/presidentbeef/brakeman) is a linter for [Ruby on Rails](http://rubyonrails.org/) projects.
+
 [pelusa](https://github.com/codegram/pelusa) is a linter for specifically [Rubinius](http://rubini.us/) Ruby code.
 
 [flog](http://ruby.sadi.st/Flog.html) identifies the most complex code in your codebase.
