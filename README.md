@@ -208,6 +208,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [excellent](https://github.com/simplabs/excellent) is easy to use and configure.
 
+[rubocop](https://github.com/bbatsov/rubocop) can help users update Ruby 1.8 style code to Ruby 1.9/2.0.
+
 [heckle](http://ruby.sadi.st/Heckle.html) performs mutation testing.
 
 [saikuro](https://github.com/metricfu/Saikuro) examines code complexity. Saikuro is currently incompatible with Ruby 1.9/2.0.
