@@ -18,6 +18,10 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
 
+[google-styleguide](https://code.google.com/p/google-styleguide/) is a collection of documents detailing Google's preferred code style, for a variety of programming languages and data formats.
+
+[Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style?redirectlocale=en-US&redirectslug=Mozilla_Coding_Style_Guide) is a document detailing Mozilla's preferred coding style.
+
 ## C
 
 [splint](http://splint.org/) has largely replaced the old `lint` tool, offering the same old checks, as well as additional security checks.
@@ -34,9 +38,11 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [cppcheck](http://cppcheck.sourceforge.net/) can check `.cpp` implementation code, as well as `.h` definition code.
 
-g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-Wall` and `-Wextra` options.
+g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-Wall` and `-Wextra` options. g++ also includes a `-Weffc++` option to check against rules in Effective C++.
 
 [cpplint](https://code.google.com/p/google-styleguide/) is provided as part of the `google-styleguide`.
+
+[Effective C++](http://www.aristeia.com/books.html) details recommended patterns in C++ code.
 
 ## Clojure
 
@@ -138,6 +144,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [JSLint Errors](http://jslinterrors.com/) explains warnings you may see from JSHint or JSLint.
 
+[Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html) is a document detailing community standards for JavaScript code style.
+
 ## LaTeX
 
 [lacheck](http://www.rootr.net/man/man/lacheck/1) comes with LaTeX.
@@ -186,6 +194,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [PyFlakes](https://pypi.python.org/pypi/pyflakes)
 
+[Python Style Guide](http://www.python.org/doc/essays/styleguide.html) is a collection of documents for community standards for Python code style.
+
 ## R
 
 CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) package.
@@ -223,6 +233,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 [churn](https://github.com/danmayer/churn) looks at version control history to look for frequently changing code, often a sign of poor coding.
 
 [metric_fu](https://github.com/metricfu/metric_fu) scans with a suite of Ruby linters.
+
+[ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) is a document describing community standards for Ruby code style.
 
 ## Rust
 
