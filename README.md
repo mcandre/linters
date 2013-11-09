@@ -216,6 +216,10 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [CoffeeScript](http://coffeescript.org/) is a compiles-to-JavaScript language designed to enforce good JavaScript coding habits at compiler level.
 
+## JPEG
+
+[jpegtran](http://jpegclub.org/jpegtran/) manipulates .jpg files.
+
 ## LaTeX
 
 [lacheck](http://www.rootr.net/man/man/lacheck/1) comes with LaTeX.
