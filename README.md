@@ -210,6 +210,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [CLosure Compiler](https://developers.google.com/closure/) refactors code to improve performance.
 
+[Closure Linter](https://pypi.python.org/pypi/closure_linter/) checks JavaScript for conformance to the Google Style Guide.
+
 [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html) is a document detailing community standards for JavaScript code style.
 
 [CoffeeScript](http://coffeescript.org/) is a compiles-to-JavaScript language designed to enforce good JavaScript coding habits at compiler level.
