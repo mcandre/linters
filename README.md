@@ -48,6 +48,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [clang](http://clang.llvm.org/) offers even more warnings, through its `-Wall`, `-Wextra`, `-Wmost`, and `-Weverything` options.
 
+[Vera](https://bitbucket.org/verateam/vera/wiki/Home) is a static analysis tool for C/C++ code.
+
 [sparse](https://sparse.wiki.kernel.org/index.php/Main_Page) is designed to find potential sources of program faults, especially in kernel code.
 
 [pclint](http://www.keil.com/pclint/) is a classic, nonfree C/C++ linter.
