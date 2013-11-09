@@ -58,7 +58,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-Wall` and `-Wextra` options. g++ also includes a `-Weffc++` option to check against rules in Effective C++.
 
-[cpplint](https://code.google.com/p/google-styleguide/) is provided as part of the `google-styleguide`.
+[cpplint](https://pypi.python.org/pypi/cpplint/) is provided as part of the `google-styleguide`.
 
 [nsiqcppstyle](https://code.google.com/p/nsiqcppstyle/) is a South Korean C++ style checker.
 
