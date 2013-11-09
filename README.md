@@ -194,6 +194,10 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [luainspect](http://lua-users.org/wiki/LuaInspect) is yet another dead linter.
 
+## MP3
+
+[mp3check](https://code.google.com/p/mp3check/) analyzes .mp3 files for errors.
+
 ## Objective C
 
 [clang](http://clang.llvm.org/) offers builtin options `-Wall`, `-Wextra`, `-Wmost`, and `-Weverything` for showing additional compiler warnings.
