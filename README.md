@@ -32,6 +32,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [MSDN Library: Design Guidelines for Class Library Developers](http://msdn.microsoft.com/en-us/library/czefa0ke%28VS.71%29.aspx) presents guidelines for .NET library developers.
 
+[Code Climate](https://codeclimate.com/) is a paid web service for automatically generating code quality reports.
+
 ## BitTorrent
 
 [torrentcheck](https://sourceforge.net/projects/torrentcheck/) verifies file download hashes against .torrent files.
