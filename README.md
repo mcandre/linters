@@ -18,9 +18,19 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
 
+[pfff](https://github.com/facebook/pfff/) is a collection of tools by Facebook for analyzing code style, with support for multiple programming languages.
+
+[Phabricator Contributing Guide](http://www.phabricator.com/docs/phabricator/article/Contributor_Introduction.html#suggested-reading) offers coding standards generally, as well as for PHP, and JavaScript code specifically.
+
 [google-styleguide](https://code.google.com/p/google-styleguide/) is a collection of documents detailing Google's preferred code style, for a variety of programming languages and data formats.
 
 [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style?redirectlocale=en-US&redirectslug=Mozilla_Coding_Style_Guide) is a document detailing Mozilla's preferred coding style.
+
+[MSDN Library: Coding Techniques and Programming Practices](http://msdn.microsoft.com/en-us/library/aa260844(v=vs.60).aspx) offers general tips for coding.
+
+[Microsoft patterns & practices](http://pnp.azurewebsites.net/en-us/) are recommended for .NET projects.
+
+[MSDN Library: Design Guidelines for Class Library Developers](http://msdn.microsoft.com/en-us/library/czefa0ke%28VS.71%29.aspx) presents guidelines for .NET library developers.
 
 ## C
 
@@ -42,7 +52,21 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [cpplint](https://code.google.com/p/google-styleguide/) is provided as part of the `google-styleguide`.
 
+[C++ Coding Standards](http://www.gotw.ca/publications/c++cs.htm) is a textbook documenting recommended C++ code style.
+
+[Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) is a another document detailing Bjarne Stroustrup's C++ code style.
+
 [Effective C++](http://www.aristeia.com/books.html) details recommended patterns in C++ code.
+
+[Boost Library Requirements and Guidelines](http://www.boost.org/development/requirements.html) is a document detailing community standards for C++ code style.
+
+## C#
+
+[StyleCop](http://archive.msdn.microsoft.com/sourceanalysis) is a C# linter.
+
+[C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx) is a document detailing Microsoft's recommended patterns for C# code.
+
+[patterns & practices Guidance Explorer](http://guidanceexplorer.codeplex.com/) presents a grapical checklist of Microsoft style rules.
 
 ## Clojure
 
@@ -146,6 +170,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html) is a document detailing community standards for JavaScript code style.
 
+[CoffeeScript](http://coffeescript.org/) is a compiles-to-JavaScript language designed to enforce good JavaScript coding habits at compiler level.
+
 ## LaTeX
 
 [lacheck](http://www.rootr.net/man/man/lacheck/1) comes with LaTeX.
@@ -185,6 +211,12 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 [php](http://php.net/) comes with a builtin `-l` option to check for valid syntax.
 
 [PHPMD](http://phpmd.org/) is a configurable frontend for static checks.
+
+[PSR-Huh?](http://net.tutsplus.com/tutorials/php/psr-huh/) is a document detailing community standards for PHP code style.
+
+[PEAR Coding Standards](http://pear.php.net/manual/en/standards.php) is a collection of documents detailing community standards for PHP code style.
+
+[CodeIgniter General Style and Syntax](http://ellislab.com/codeigniter/user-guide/general/styleguide.html) is a another document offering PHP code style tips.
 
 ## Python
 
