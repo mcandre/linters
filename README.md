@@ -178,6 +178,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [lacheck](http://www.rootr.net/man/man/lacheck/1) comes with LaTeX.
 
+[style-check.rb](http://www.cs.umd.edu/~nspring/software/style-check-readme.html) is a LaTeX checker written in Ruby.
+
 ## Lua
 
 [luac](http://www.lua.org/manual/4.0/luac.html) offers a builtin `-p` option for syntax validation..
