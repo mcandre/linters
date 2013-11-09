@@ -122,6 +122,10 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [Lintian](http://lintian.debian.org/) checks for bugs and policy violations in .deb packages.
 
+## DNS
+
+[Dlint](http://freecode.com/projects/Dlint) analyzes DNS records.
+
 ## Elisp
 
 [elisp-lint](https://github.com/nschum/elisp-lint)
