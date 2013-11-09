@@ -32,6 +32,10 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [MSDN Library: Design Guidelines for Class Library Developers](http://msdn.microsoft.com/en-us/library/czefa0ke%28VS.71%29.aspx) presents guidelines for .NET library developers.
 
+## BitTorrent
+
+[torrentcheck](https://sourceforge.net/projects/torrentcheck/) verifies file download hashes against .torrent files.
+
 ## C
 
 [splint](http://splint.org/) has largely replaced the old `lint` tool, offering the same old checks, as well as additional security checks.
