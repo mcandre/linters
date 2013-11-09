@@ -188,6 +188,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [JSLint Errors](http://jslinterrors.com/) explains warnings you may see from JSHint or JSLint.
 
+[CLosure Compiler](https://developers.google.com/closure/) refactors code to improve performance.
+
 [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html) is a document detailing community standards for JavaScript code style.
 
 [CoffeeScript](http://coffeescript.org/) is a compiles-to-JavaScript language designed to enforce good JavaScript coding habits at compiler level.
