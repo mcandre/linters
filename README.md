@@ -220,6 +220,10 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [jpegtran](http://jpegclub.org/jpegtran/) manipulates .jpg files.
 
+## JSON
+
+[json.py](http://docs.python.org/2/library/json.html) is a builtin Python module, offering a `-mjson.tool` option for linting JSON files.
+
 ## LaTeX
 
 [lacheck](http://www.rootr.net/man/man/lacheck/1) comes with LaTeX.
