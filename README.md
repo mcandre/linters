@@ -290,6 +290,12 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [linter](https://github.com/foursquare/linter) is an early Scala linter.
 
+## sh / shell / bash
+
+[Shellcheck](http://www.shellcheck.net/) is a bash linter written in Haskell.
+
+[checkbashisms.rb](http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html) is bash linter written in Ruby.
+
 ## Smalltalk
 
 [SmallLint](http://c2.com/cgi/wiki?SmallLint) integrates with the OmniBrowser to lint Smalltalk code.
