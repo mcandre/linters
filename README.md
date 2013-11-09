@@ -294,6 +294,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [PyFlakes](https://pypi.python.org/pypi/pyflakes)
 
+[pep8](https://pypi.python.org/pypi/pep8/) checks Python code for PEP8 conformance.
+
 [Python Style Guide](http://www.python.org/doc/essays/styleguide.html) is a collection of documents for community standards for Python code style.
 
 ## R
