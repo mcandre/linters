@@ -52,6 +52,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [pclint](http://www.keil.com/pclint/) is a classic, nonfree C/C++ linter.
 
+[Misra C CodeCheck](http://www.abxsoft.com/misra/misra-index.html) is a demo C linter.
+
 [uno](http://spinroot.com/uno/) is a simple C linter.
 
 ## C++
