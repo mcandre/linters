@@ -274,6 +274,10 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) analyzes .png files for errors.
 
+## Puppet
+
+[puppet-lint](http://puppet-lint.com/) checks Puppet scripts for proper style.
+
 ## Python
 
 [PyChecker](http://pychecker.sourceforge.net/)
