@@ -60,6 +60,8 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [cpplint](https://code.google.com/p/google-styleguide/) is provided as part of the `google-styleguide`.
 
+[nsiqcppstyle](https://code.google.com/p/nsiqcppstyle/) is a South Korean C++ style checker.
+
 [C++ Coding Standards](http://www.gotw.ca/publications/c++cs.htm) is a textbook documenting recommended C++ code style.
 
 [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) is a another document detailing Bjarne Stroustrup's C++ code style.
