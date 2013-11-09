@@ -106,6 +106,10 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 `pub publish` offers a `--dry-run` option.
 
+## Debian packages
+
+[Lintian](http://lintian.debian.org/) checks for bugs and policy violations in .deb packages.
+
 ## Elisp
 
 [elisp-lint](https://github.com/nschum/elisp-lint)
