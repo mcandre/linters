@@ -50,6 +50,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [Vera](https://bitbucket.org/verateam/vera/wiki/Home) is a static analysis tool for C/C++ code.
 
+[banned.h](http://blogs.technet.com/b/security/archive/2012/08/30/microsoft-s-free-security-tools-banned-h.aspx) helps C/C++ programmers identify deprecated, unsafe dependencies.
+
 [sparse](https://sparse.wiki.kernel.org/index.php/Main_Page) is designed to find potential sources of program faults, especially in kernel code.
 
 [pclint](http://www.keil.com/pclint/) is a classic, nonfree C/C++ linter.
