@@ -144,6 +144,18 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [fantomas](https://github.com/dungpa/fantomas)
 
+## File systems
+
+[fslint](http://www.pixelbeat.org/fslint/) can identify and correct errors in file systems.
+
+[Disk Utility](https://support.apple.com/kb/HT1782) can repair HFS/HFS+ partitions.
+
+[gParted](http://gparted.sourceforge.net/) can check for errors in several file systems.
+
+[fixmbr Windows](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/bootcons_fixmbr.mspx?mfr=true) is a DOS tool for repairing boot sectors, available in Recovery mode in Windows installation media.
+
+[fixmbr Linux](https://launchpad.net/~lenski/+archive/ms-sys/+packages) is a Linux tool for repairing boot sectors, part of the ms-sys package.
+
 ## Fortran
 
 [fortranlint](http://stellar.cleanscape.net/products/fortranlint/)
