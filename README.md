@@ -324,6 +324,10 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [SmallLint](http://c2.com/cgi/wiki?SmallLint) integrates with the OmniBrowser to lint Smalltalk code.
 
+## Snort
+
+[pulledpork](https://code.google.com/p/pulledpork/) helps manage Snort rulesets.
+
 ## XML
 
 [xmllint](https://en.wikipedia.org/wiki/Libxml2) is provided as part of the `libxml2` package.
