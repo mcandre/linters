@@ -234,6 +234,10 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [perltidy](http://perltidy.sourceforge.net/) generates a recommended refactored version of your code.
 
+[perlcritic](https://metacpan.org/pod/perlcritic) applies rules based on O'Reilly Perl Best Practices.
+
+[Perl Best Practices](http://shop.oreilly.com/product/9780596001735.do) is a textbook of recommended Perl coding conventions.
+
 ## PHP
 
 [php](http://php.net/) comes with a builtin `-l` option to check for valid syntax.
