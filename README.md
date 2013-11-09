@@ -116,6 +116,10 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [elint](http://repo.or.cz/w/emacs.git/blob/03e680f0ad11461b40b8d07e99541e2cd32681ae:/lisp/emacs-lisp/elint.el)
 
+## ePUB
+
+[epubcheck](https://github.com/IDPF/epubcheck) analyzes .epub files for errors.
+
 ## Erlang
 
 [erl_tidy](http://www.erlang.org/doc/man/erl_tidy.html), a library that comes with Erlang, attempts to automatically change unidiomatic code.
