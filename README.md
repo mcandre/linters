@@ -270,6 +270,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [PHPMD](http://phpmd.org/) is a configurable frontend for static checks.
 
+[PHP Code Sniffer](http://pear.php.net/package/PHP_CodeSniffer) checks .php, .js, and .css code for style.
+
 [PSR-Huh?](http://net.tutsplus.com/tutorials/php/psr-huh/) is a document detailing community standards for PHP code style.
 
 [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php) is a collection of documents detailing community standards for PHP code style.
