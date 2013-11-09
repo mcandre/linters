@@ -266,6 +266,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [metric_fu](https://github.com/metricfu/metric_fu) scans with a suite of Ruby linters.
 
+[laser](https://github.com/michaeledgar/laser) is a slightly out of date Ruby linter.
+
 [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) is a document describing community standards for Ruby code style.
 
 ## Rust
