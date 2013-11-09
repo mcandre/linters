@@ -268,6 +268,10 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [Typed Racket](http://docs.racket-lang.org/ts-guide/index.html) offers additional checks for type safety.
 
+## RPM
+
+[rpmlint](http://linux.die.net/man/1/rpmlint) checks .rpm packages for errors.
+
 ## Ruby
 
 [contracts.ruby](http://egonschiele.github.io/contracts.ruby/) provides a dynamically enforced type safety system.
