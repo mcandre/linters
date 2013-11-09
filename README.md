@@ -230,6 +230,10 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [CodeIgniter General Style and Syntax](http://ellislab.com/codeigniter/user-guide/general/styleguide.html) is a another document offering PHP code style tips.
 
+## PNG
+
+[pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) analyzes .png files for errors.
+
 ## Python
 
 [PyChecker](http://pychecker.sourceforge.net/)
