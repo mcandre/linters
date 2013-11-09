@@ -50,6 +50,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [pclint](http://www.keil.com/pclint/) is a classic, nonfree C/C++ linter.
 
+[uno](http://spinroot.com/uno/) is a simple C linter.
+
 ## C++
 
 [cppcheck](http://cppcheck.sourceforge.net/) can check `.cpp` implementation code, as well as `.h` definition code.
