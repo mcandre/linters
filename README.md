@@ -296,13 +296,13 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## Python
 
-[PyChecker](http://pychecker.sourceforge.net/)
+[PyLint](http://www.pylint.org/) is fast and customizable.
 
-[PyLint](http://www.pylint.org/)
-
-[PyFlakes](https://pypi.python.org/pypi/pyflakes)
+[PyFlakes](https://pypi.python.org/pypi/pyflakes) offers few configuration options.
 
 [pep8](https://pypi.python.org/pypi/pep8/) checks Python code for PEP8 conformance.
+
+[PyChecker](http://pychecker.sourceforge.net/) requires executing code in order to analyze it.
 
 [Python Style Guide](http://www.python.org/doc/essays/styleguide.html) is a collection of documents for community standards for Python code style.
 
