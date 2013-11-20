@@ -386,6 +386,10 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 
 [pulledpork](https://code.google.com/p/pulledpork/) helps manage Snort rulesets.
 
+## Travis
+
+[travis-lint](https://github.com/travis-ci/travis-lint) checks `.travis.yml` for errors.
+
 ## XML
 
 [xmllint](https://en.wikipedia.org/wiki/Libxml2) is provided as part of the `libxml2` package.
