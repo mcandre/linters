@@ -370,6 +370,10 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 ## sh / shell / bash
 
+Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`, `ksh -n`, ...
+
+[shlint](https://github.com/duggan/shlint) is a meta-linter, which runs `-n` checks, for any shells available, as well as `checkbashisms`.
+
 [Shellcheck](http://www.shellcheck.net/) is a bash linter written in Haskell.
 
 [checkbashisms.rb](http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html) is bash linter written in Ruby.
