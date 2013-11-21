@@ -244,6 +244,12 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [luainspect](http://lua-users.org/wiki/LuaInspect) is yet another dead linter.
 
+## Make
+
+make offers a `-n` dry run option, printing the commands that would be executed.
+
+To check a Makefile for syntax errors, run any `make` command. A `make lint` command to lint itself would be superfluous for this reason.
+
 ## MP3
 
 [mp3check](https://code.google.com/p/mp3check/) analyzes .mp3 files for errors.
