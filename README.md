@@ -26,6 +26,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [google-styleguide](https://code.google.com/p/google-styleguide/) is a collection of documents detailing Google's preferred code style, for a variety of programming languages and data formats.
 
+[Hemingway](http://www.hemingwayapp.com/) is a software application for improving the readability of English text. By using Hemingway, we can make our documentation more understandable for others.
+
 [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style?redirectlocale=en-US&redirectslug=Mozilla_Coding_Style_Guide) is a document detailing Mozilla's preferred coding style.
 
 [MSDN Library: Coding Techniques and Programming Practices](http://msdn.microsoft.com/en-us/library/aa260844(v=vs.60).aspx) offers general tips for coding.
