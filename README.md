@@ -38,6 +38,10 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [Code Climate](https://codeclimate.com/) is a paid web service for automatically generating code quality reports.
 
+## Awk
+
+[gawk](http://www.gnu.org/software/gawk/manual/gawk.html) has a `--lint` option for checking script compatibility with other awk implementations.
+
 ## BitTorrent
 
 [torrentcheck](https://sourceforge.net/projects/torrentcheck/) verifies file download hashes against .torrent files.
