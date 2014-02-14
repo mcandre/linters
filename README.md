@@ -56,7 +56,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [clang](http://clang.llvm.org/) offers even more warnings, through its `-Wall`, `-Wextra`, `-Wmost`, and `-Weverything` options.
 
-[Vera](https://bitbucket.org/verateam/vera/wiki/Home) is a static analysis tool for C/C++ code.
+[vera++](https://bitbucket.org/verateam/vera/wiki/Home) is a static analysis tool for C/C++ code.
 
 [banned.h](http://blogs.technet.com/b/security/archive/2012/08/30/microsoft-s-free-security-tools-banned-h.aspx) helps C/C++ programmers identify deprecated, unsafe dependencies.
 
