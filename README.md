@@ -16,6 +16,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 ## *
 
+[aspelllint](https://github.com/mcandre/aspelllint) provides spell checking for large projects.
+
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
 
 [eclint](https://github.com/jedmao/eclint) can derive the code style used in a project, and save it as a dotfile for use in other projects.
