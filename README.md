@@ -64,7 +64,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [sparse](https://sparse.wiki.kernel.org/index.php/Main_Page) is designed to find potential sources of program faults, especially in kernel code.
 
-[pclint](http://www.keil.com/pclint/) is a classic, nonfree C/C++ linter.
+[pclint](http://www.keil.com/pclint/) is a classic, non-free C/C++ linter.
 
 [Misra C CodeCheck](http://www.abxsoft.com/misra/misra-index.html) is a demo C linter.
 
@@ -94,7 +94,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx) is a document detailing Microsoft's recommended patterns for C# code.
 
-[patterns & practices Guidance Explorer](http://guidanceexplorer.codeplex.com/) presents a grapical checklist of Microsoft style rules.
+[patterns & practices Guidance Explorer](http://guidanceexplorer.codeplex.com/) presents a graphical checklist of Microsoft style rules.
 
 ## Clojure
 
@@ -128,7 +128,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 ## D
 
-[gdc](http://dlang.org/) offers a builtin `-Wall` flag for additional warnings.
+[gdc](http://dlang.org/) offers a built-in `-Wall` flag for additional warnings.
 
 ## Dart
 
@@ -192,7 +192,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 ## Haskell
 
-[GHC](http://www.haskell.org/platform/), the official Haskell compiler, is reknown for producing correct programs, though its strict type system.
+[GHC](http://www.haskell.org/platform/), the official Haskell compiler, is renown for producing correct programs, though its strict type system.
 
 [hlint](https://github.com/ndmitchell/hlint) displays a refactored version of your code, helping users more quickly resolve warnings.
 
@@ -236,7 +236,7 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## JSON
 
-[json.py](http://docs.python.org/2/library/json.html) is a builtin Python module, offering a `-mjson.tool` option for linting JSON files.
+[json.py](http://docs.python.org/2/library/json.html) is a built-in Python module, offering a `-mjson.tool` option for linting JSON files.
 
 ## LaTeX
 
@@ -246,7 +246,7 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## Lua
 
-[luac](http://www.lua.org/manual/4.0/luac.html) offers a builtin `-p` option for syntax validation..
+[luac](http://www.lua.org/manual/4.0/luac.html) offers a built-in `-p` option for syntax validation..
 
 [lualint](https://github.com/philips/lualint) is an early Lua linter.
 
@@ -266,7 +266,7 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 ## Objective C
 
-[clang](http://clang.llvm.org/) offers builtin options `-Wall`, `-Wextra`, `-Wmost`, and `-Weverything` for showing additional compiler warnings.
+[clang](http://clang.llvm.org/) offers built-in options `-Wall`, `-Wextra`, `-Wmost`, and `-Weverything` for showing additional compiler warnings.
 
 [OCLint](http://oclint.org/) can lint ObjC, C, and C++ code.
 
@@ -274,7 +274,7 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 [mascot](http://mascot.x9c.fr/)
 
-## Pascall
+## Pascal
 
 [fpc](http://www.freepascal.org/) offers a `-vw` flag to show additional warnings.
 
@@ -290,7 +290,7 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 ## PHP
 
-[php](http://php.net/) comes with a builtin `-l` option to check for valid syntax.
+[php](http://php.net/) comes with a built-in `-l` option to check for valid syntax.
 
 [PHPMD](http://phpmd.org/) is a configurable frontend for static checks.
 
