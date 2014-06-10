@@ -380,6 +380,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 ## Scala
 
+The [scalac](http://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/tools/scalac.html) compiler offers optional `-Xlint` and `-deprecation` warnings.
+
 [Scalastyle](http://www.scalastyle.org/) offers CLI, SBT, and Maven interfaces to a flexible, extensible Scala linter.
 
 [wartremover](https://github.com/puffnfresh/wartremover)
