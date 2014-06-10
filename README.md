@@ -216,6 +216,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## JavaScript / Node.js
 
+[ESLint](eslint.org) is a pluggable and configurable javascript linter that aims to fix the non-exentability issue of jshint and jslint.
+
 [JSHint](http://jshint.com/) is far and away the best modern linter available. It's simultaneously easy to use, and highly customizable; offering global and directory specific `.jshintrc` files for rule configuration; and global and directory specific `.jshintignore` files for ignoring certain files and directories, trimming down `jshint`'s output to exactly what you want to see.
 
 [JSLint](http://jslint.com/) is JSHint's predecessor.
