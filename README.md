@@ -308,6 +308,10 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 [pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) analyzes .png files for errors.
 
+## PostgreSQL
+
+[pgsanity](https://github.com/markdrago/pgsanity) verifies the correctness of PostgreSQL query syntax.
+
 ## Puppet
 
 [puppet-lint](http://puppet-lint.com/) checks Puppet scripts for proper style.
