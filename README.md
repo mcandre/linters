@@ -392,7 +392,7 @@ The [scalac](http://www.scala-lang.org/old/sites/default/files/linuxsoft_archive
 
 [wartremover](https://github.com/puffnfresh/wartremover)
 
-[linter](https://github.com/foursquare/linter) is an early Scala linter.
+[linter](https://github.com/foursquare/linter) was an early Scala linter.
 
 ## sh / shell / bash
 
