@@ -114,6 +114,106 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [xref](http://www.cs.cmu.edu/Groups/AI/lang/lisp/code/tools/xref/0.html) is an old static analysis tool for CL code.
 
+## Conf
+
+Linux .conf configuration files may vary in format, but many popular services offer a way to check the syntax of their particular configuration files.
+
+### Apache
+
+`apache2 -t`
+
+### Exim
+
+`exim -bV`
+
+### CUPS
+
+`cupsd -f -t`
+
+### dhcpd
+
+`dhcpd (-t -cf) | (-T -lf)`
+
+### Lighttp
+
+`lighttpd -t`
+
+### MySQL
+
+`mysqld --help --verbose --skip-networking`
+
+### Nagios
+
+`nagios -v`
+
+### named
+
+`named-checkconf`
+
+`named-checkzone`
+
+### Nginx
+
+`nginx -t`
+
+### ntp
+
+`ntpd -n | -d`
+
+### pf
+
+`pfctl -n`
+
+### Postfix
+
+`postfix check`
+
+### proftpd
+
+`proftpd -t`
+
+### rsyslogd
+
+`rsyslogd -c4 -N 1`
+
+### Samba
+
+`testparm -v`
+
+### slapd
+
+`slapd -Tt`
+
+### Squid
+
+`squid -k (check | parse)`
+
+### sshd
+
+`sshd -t | -T`
+
+### syslogd
+
+`syslogd -d`
+
+### tcpd
+
+`tcpdchk -a | -d | -i | -v`
+
+### Upstart
+
+```
+eval `dbus-launch --auto-syntax` && find . -type f -name '*.conf' -exec init-checkconf {} \;
+```
+
+### varnishd
+
+`varnishd -C`
+
+### vsftpd
+
+`vsftpd -olisten=NO`
+
 ## Coq
 
 [Coq](http://coq.inria.fr/) is a proof assistant, requiring all programs to be logically valid.
