@@ -349,6 +349,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## Lua
 
+`luac` offers a `-p` option to skip output file generation, useful for checking syntax without altering any files.
+
 [luac](http://www.lua.org/manual/4.0/luac.html) offers a built-in `-p` option for syntax validation..
 
 [lualint](https://github.com/philips/lualint) is an early Lua linter.
