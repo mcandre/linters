@@ -20,9 +20,13 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
 
+[cowl](https://github.com/mcandre/cowl) identifies lines wider than n columns (typically 80), with help from `grep`.
+
 [eclint](https://github.com/jedmao/eclint) can derive the code style used in a project, and save it as a dotfile for use in other projects.
 
 [enlint](https://github.com/mcandre/enlint) helps identify strangely encoded text files, with help from programs like Unix `find` and `enca`.
+
+[gtdlint](https://github.com/mcandre/gtdlint) identifies TODO notes left in code comments, with help from `grep`.
 
 [pfff](https://github.com/facebook/pfff/) is a collection of tools by Facebook for analyzing code style, with support for multiple programming languages.
 
