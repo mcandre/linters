@@ -491,7 +491,7 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 ## Sass
 
-[scss-lint](https://github.com/causes/scss-lint) is a Sass/SCSS linter.
+[scss-lint](https://github.com/causes/scss-lint) is a Sass/SCSS and CSS linter.
 
 [dftlr/Sasslint](https://github.com/dfltr/Sasslint) is an early Sass linter.
 
