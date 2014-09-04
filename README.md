@@ -491,7 +491,11 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 ## Sass
 
-[sasslint](https://github.com/dfltr/Sasslint) for Sass files.
+[scss-lint](https://github.com/causes/scss-lint) is a Sass/SCSS linter.
+
+[dftlr/Sasslint](https://github.com/dfltr/Sasslint) is an early Sass linter.
+
+[rstrangh/sasslint](https://rubygems.org/gems/sasslint) is another early Sass linter.
 
 ## Scala
 
