@@ -28,6 +28,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [gtdlint](https://github.com/mcandre/gtdlint) identifies TODO notes left in code comments, with help from `grep`.
 
+[line-detector](https://github.com/mcandre/line-detector) identifies line ending formats.
+
 [pfff](https://github.com/facebook/pfff/) is a collection of tools by Facebook for analyzing code style, with support for multiple programming languages.
 
 [Phabricator Contributing Guide](http://www.phabricator.com/docs/phabricator/article/Contributor_Introduction.html#suggested-reading) offers coding standards generally, as well as for PHP, and JavaScript code specifically.
