@@ -519,7 +519,7 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 
 [Shellcheck](http://www.shellcheck.net/) is a bash linter written in Haskell.
 
-[checkbashisms.rb](http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html) is bash linter written in Ruby.
+[checkbashisms.rb](http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html) is a sh linter that reports bashisms.
 
 ## Smalltalk
 
