@@ -24,6 +24,10 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [eclint](https://github.com/jedmao/eclint) can derive the code style used in a project, and save it as a dotfile for use in other projects.
 
+[editorconfig](http://editorconfig.org/) is an editor-agnostic configuration system for code styling.
+
+[editorconfig-tools](https://www.npmjs.com/search?q=editorconfig-tools) is a command line linter against editorconfig rules.
+
 [enlint](https://github.com/mcandre/enlint) helps identify strangely encoded text files, with help from programs like Unix `find` and `enca`.
 
 [gtdlint](https://github.com/mcandre/gtdlint) identifies TODO notes left in code comments, with help from `grep`.
