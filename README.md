@@ -104,9 +104,13 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [Boost Library Requirements and Guidelines](http://www.boost.org/development/requirements.html) is a document detailing community standards for C++ code style.
 
-## C#
+## C# 
 
-[StyleCop](http://archive.msdn.microsoft.com/sourceanalysis) is a C# linter.
+[StyleCop](http://archive.msdn.microsoft.com/sourceanalysis) is a C# linter that enforces style guidelines.
+
+[Gendarme](http://www.mono-project.com/docs/tools+libraries/tools/gendarme/) is a .NET Static analysis tool created by the mono team. Gendarme enforces best practices, and compatibility with the mono runtime.
+
+[FxCop](https://en.wikipedia.org/wiki/FxCop) is a .NET Static analysis tool created at microsoft. FxCop enforces best practices.
 
 [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx) is a document detailing Microsoft's recommended patterns for C# code.
 
