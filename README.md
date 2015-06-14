@@ -86,6 +86,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [uno](http://spinroot.com/uno/) is a simple C linter.
 
+[Infer](http://fbinfer.com/) is a static program analyzer for Java, C, and Objective-C, written in OCaml.
+
 ## C++
 
 [cppcheck](http://cppcheck.sourceforge.net/) can check `.cpp` implementation code, as well as `.h` definition code.
@@ -95,6 +97,8 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 [cpplint](https://pypi.python.org/pypi/cpplint/) is provided as part of the `google-styleguide`.
 
 [nsiqcppstyle](https://code.google.com/p/nsiqcppstyle/) is a South Korean C++ style checker.
+
+[flint++](https://github.com/L2Program/FlintPlusPlus) is a cross-platform, zero-dependency port of [flint](https://github.com/facebook/flint) - a linter developed at Facebook.
 
 [C++ Coding Standards](http://www.gotw.ca/publications/c++cs.htm) is a textbook documenting recommended C++ code style.
 
@@ -331,9 +335,15 @@ eval `dbus-launch --auto-syntax` && \
 
 In Java 8, javac will feature an `-Xdoclint` option to identify undocumented code.
 
-[CheckStyle](http://checkstyle.sourceforge.net/), with decent CLI support, as well as decent Maven support, through [maven-checkstyle-plugin](http://maven.apache.org/plugins/maven-checkstyle-plugin/). Checkstyle also supports identifying undocumented code, through its <a href="http://checkstyle.sourceforge.net/config_javadoc.html">JavaDoc</a> settings.
+[CheckStyle](http://checkstyle.sourceforge.net/), with decent CLI support, as well as decent Maven support, through [maven-checkstyle-plugin](http://maven.apache.org/plugins/maven-checkstyle-plugin/). Checkstyle also supports identifying undocumented code, through its [JavaDoc](http://checkstyle.sourceforge.net/config_javadoc.html) settings.
 
 [PMD](http://pmd.sourceforge.net/) detects flaws and duplicated code.
+
+[Error-prone](https://github.com/google/error-prone) catches common Java mistakes as compile-time errors.
+
+[Android lint](http://tools.android.com/tips/lint) checks Android source files for potential bugs and optimization improvements for correctness, security, performance, usability, accessibility, and internationalization.
+
+[Infer](http://fbinfer.com/) is a static program analyzer for Java, C, and Objective-C, written in OCaml.
 
 ## JavaScript / Node.js
 
@@ -397,6 +407,8 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 [OCLint](http://oclint.org/) can lint ObjC, C, and C++ code.
 
+[Infer](http://fbinfer.com/) is a static program analyzer for Java, C, and Objective-C, written in OCaml.
+
 ## OCaml
 
 [mascot](http://mascot.x9c.fr/)
@@ -447,9 +459,11 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 [PyFlakes](https://pypi.python.org/pypi/pyflakes) offers few configuration options.
 
+[PyChecker](http://pychecker.sourceforge.net/) requires executing code in order to analyze it.
+
 [pep8](https://pypi.python.org/pypi/pep8/) checks Python code for PEP8 conformance.
 
-[PyChecker](http://pychecker.sourceforge.net/) requires executing code in order to analyze it.
+[pep257](https://pypi.python.org/pypi/pep257/) checks Python code for PEP257 docstring conformance.
 
 [Python Style Guide](http://www.python.org/doc/essays/styleguide.html) is a collection of documents for community standards for Python code style.
 
@@ -519,9 +533,13 @@ The [scalac](http://www.scala-lang.org/old/sites/default/files/linuxsoft_archive
 
 [Scalastyle](http://www.scalastyle.org/) offers CLI, SBT, and Maven interfaces to a flexible, extensible Scala linter.
 
-[wartremover](https://github.com/puffnfresh/wartremover)
+[Wartremover](https://github.com/puffnfresh/wartremover) is a flexible Scala code linting tool.
 
-[linter](https://github.com/foursquare/linter) was an early Scala linter.
+[Scapegoat](https://github.com/sksamuel/sbt-scapegoat) is a compiler plugin for static code analysis.
+
+[Abide](https://github.com/scala/scala-abide) is a library for quick scala code checking and validation by the compiler developers.
+
+[Linter](https://github.com/HairyFotr/linter) is a static analysis compiler plugin which adds various compile-time checks.
 
 ## sh / shell / bash
 
@@ -532,6 +550,8 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 [Shellcheck](http://www.shellcheck.net/) is a bash linter written in Haskell.
 
 [checkbashisms.rb](http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html) is a sh linter that reports bashisms.
+
+[Bashate](https://pypi.python.org/pypi/bashate/) is a pep8-like linter for bash scripts.
 
 ## Smalltalk
 
