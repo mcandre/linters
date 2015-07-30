@@ -108,7 +108,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [Boost Library Requirements and Guidelines](http://www.boost.org/development/requirements.html) is a document detailing community standards for C++ code style.
 
-## C# 
+## C#
 
 [StyleCop](http://archive.msdn.microsoft.com/sourceanalysis) is a C# linter that enforces style guidelines.
 
@@ -460,6 +460,10 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 [PyFlakes](https://pypi.python.org/pypi/pyflakes) offers few configuration options.
 
 [PyChecker](http://pychecker.sourceforge.net/) requires executing code in order to analyze it.
+
+[flake8](https://pypi.python.org/pypi/flake8) is a meta linter for Python, including PyFlakes, pep8, and McCabe.
+
+[flake8-quotes](https://github.com/zheller/flake8-quotes) is a plugin for flake8 that enforces single vs double quotes.
 
 [pep8](https://pypi.python.org/pypi/pep8/) checks Python code for PEP8 conformance.
 
