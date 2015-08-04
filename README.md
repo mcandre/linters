@@ -56,6 +56,10 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [Code Climate](https://codeclimate.com/) is a paid web service for automatically generating code quality reports.
 
+## Android
+
+[lint](http://developer.android.com/tools/help/lint.html) is a tool for static analysis of Android projects.
+
 ## Awk
 
 [gawk](http://www.gnu.org/software/gawk/manual/gawk.html) has a `--lint` option for checking script compatibility with other awk implementations.
