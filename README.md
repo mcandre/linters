@@ -289,6 +289,8 @@ eval `dbus-launch --auto-syntax` && \
 
 [dialyzer](http://www.erlang.org/doc/man/dialyzer.html), a tool that comes with Erlang, helps detect type errors.
 
+[elvis](https://github.com/inaka/elvis) is an Erlang style checker.
+
 ## F#
 
 [fantomas](https://github.com/dungpa/fantomas)
