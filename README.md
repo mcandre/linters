@@ -16,6 +16,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 ## *
 
+[check-all-the-things](https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/plain/doc/README) is a command-line tool for automatically running many static analysis and similar tools over packages and upstream codebases.
+
 [aspelllint](https://github.com/mcandre/aspelllint) provides spell checking for large projects.
 
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
