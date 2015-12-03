@@ -44,6 +44,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [sloccount](http://www.dwheeler.com/sloccount/) calculates sources lines of code and extrapolates project man-hours and development cost based on industry averages.
 
+[Sonarqube](http://www.sonarqube.org/) is a cross-programming language linting system.
+
 [Phabricator Contributing Guide](http://www.phabricator.com/docs/phabricator/article/Contributor_Introduction.html#suggested-reading) offers coding standards generally, as well as for PHP, and JavaScript code specifically.
 
 [google-styleguide](https://code.google.com/p/google-styleguide/) is a collection of documents detailing Google's preferred code style, for a variety of programming languages and data formats.
