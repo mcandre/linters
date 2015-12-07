@@ -349,6 +349,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [CheckStyle](http://checkstyle.sourceforge.net/), with decent CLI support, as well as decent Maven support, through [maven-checkstyle-plugin](http://maven.apache.org/plugins/maven-checkstyle-plugin/). Checkstyle also supports identifying undocumented code, through its [JavaDoc](http://checkstyle.sourceforge.net/config_javadoc.html) settings.
 
+[FindBugs](http://findbugs.sourceforge.net/) is an old Java linter, but has kept up with Java advances (for example, by offering a standard Gradle plugin).
+
 [PMD](http://pmd.sourceforge.net/) detects flaws and duplicated code.
 
 [Error-prone](https://github.com/google/error-prone) catches common Java mistakes as compile-time errors.
