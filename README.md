@@ -261,6 +261,10 @@ eval `dbus-launch --auto-syntax` && \
 
 [csstidy](http://csstidy.sourceforge.net/) can help compress CSS files.
 
+## CSV
+
+[csv-validator](https://github.com/digital-preservation/csv-validator) verifies CSV data against a given CSV schema.
+
 ## D
 
 [gdc](http://dlang.org/) offers a built-in `-Wall` flag for additional warnings.
@@ -386,6 +390,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 [json.py](http://docs.python.org/2/library/json.html) is a built-in Python module, offering a `-mjson.tool` option for linting JSON files.
 
 [jq](http://stedolan.github.io/jq/) isn't a linter per-se, but jq can prettify JSON for creating more readable code examples.
+
+[jsonschemalint](https://github.com/nickcmaynard/jsonschemalint) verifies JSON data against a given JSON schema.
 
 ## LaTeX
 
