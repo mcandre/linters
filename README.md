@@ -118,7 +118,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [Boost Library Requirements and Guidelines](http://www.boost.org/development/requirements.html) is a document detailing community standards for C++ code style.
 
-## C#
+## C&#35;
 
 [StyleCop](http://archive.msdn.microsoft.com/sourceanalysis) is a C# linter that enforces style guidelines.
 
