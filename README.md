@@ -275,7 +275,7 @@ eval `dbus-launch --auto-syntax` && \
 
 ## Debian packages
 
-[Lintian](http://lintian.debian.org/) checks for bugs and policy violations in .deb packages.
+[Lintian](https://lintian.debian.org/) checks for bugs and policy violations in .deb packages.
 
 ## DNS
 
