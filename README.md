@@ -130,6 +130,10 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [patterns & practices Guidance Explorer](http://guidanceexplorer.codeplex.com/) presents a graphical checklist of Microsoft style rules.
 
+## Chef
+
+[foodcritic](http://www.foodcritic.io/) offers built-in rules for identifying potential problems with Chef cookbooks.
+
 ## Clojure
 
 [core.typed](https://github.com/clojure/core.typed) offers annotations for type safety.
