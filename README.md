@@ -285,6 +285,10 @@ eval `dbus-launch --auto-syntax` && \
 
 [Dlint](http://freecode.com/projects/Dlint) analyzes DNS records.
 
+## Docker
+
+[dockerlint](https://www.npmjs.com/package/dockerlint)
+
 ## Elisp
 
 [elisp-lint](https://github.com/nschum/elisp-lint)
