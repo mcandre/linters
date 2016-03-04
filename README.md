@@ -601,6 +601,10 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 
 [xmllint](https://en.wikipedia.org/wiki/Libxml2) is provided as part of the `libxml2` package.
 
+## YAML
+
+[yamllint](https://github.com/adrienverge/yamllint) is a syntax checker and linter for YAML source.
+
 # Continuous Integration
 
 A [Jenkins](http://jenkins-ci.org/) server can generate HTML linter reports for each new code commit.
