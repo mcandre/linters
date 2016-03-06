@@ -493,6 +493,8 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 [flake8-quotes](https://github.com/zheller/flake8-quotes) is a plugin for flake8 that enforces single vs double quotes.
 
+[bandit](https://github.com/openstack/bandit) security focused Python static analyzer
+
 [pep8](https://pypi.python.org/pypi/pep8/) checks Python code for PEP8 conformance.
 
 [pep257](https://pypi.python.org/pypi/pep257/) checks Python code for PEP257 docstring conformance.
