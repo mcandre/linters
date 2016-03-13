@@ -549,6 +549,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [rails_upgrade](https://github.com/rails/rails_upgrade) helps Rails 2 code upgrade to Rails 3.
 
+[ruby-lint](https://github.com/YorickPeterse/ruby-lint) is yet another static code analysis for Ruby.
+
 ## Rust
 
 [rustc](http://www.rust-lang.org/), the Rust compiler, offers a `-Wall` option for additional warnings.
