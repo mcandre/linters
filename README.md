@@ -62,6 +62,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [Code Climate](https://codeclimate.com/) is a paid web service for automatically generating code quality reports.
 
+[Web Package Update Checker](https://github.com/fulldecent/web-puc) validates web projects to ensure they use the latest available versions of web packages (like Bootstrap, Font Awesome, JQuery).
+
 ## Android
 
 [lint](http://developer.android.com/tools/help/lint.html) is a tool for static analysis of Android projects.
