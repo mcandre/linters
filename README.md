@@ -549,7 +549,7 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [rails_upgrade](https://github.com/rails/rails_upgrade) helps Rails 2 code upgrade to Rails 3.
 
-[ruby-lint](https://github.com/YorickPeterse/ruby-lint) is yet another static code analysis for Ruby.
+[ruby-lint](https://github.com/YorickPeterse/ruby-lint) relies on the pure Ruby [parser](https://rubygems.org/gems/parser), so it may lag behind in supported Ruby version syntaxes.
 
 ## Rust
 
