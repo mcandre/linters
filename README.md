@@ -98,7 +98,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [uno](http://spinroot.com/uno/) is a simple C linter.
 
-[Infer](http://fbinfer.com/) is a static program analyzer for Java, C, and Objective-C, written in OCaml.
+[Infer](http://fbinfer.com/) is a static program analyzer for Java, C, Objective-C, and Swift, written in OCaml.
 
 ## C++
 
@@ -598,6 +598,10 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 ## Snort
 
 [pulledpork](https://code.google.com/p/pulledpork/) helps manage Snort rulesets.
+
+## Swift
+
+[swiftlint](https://github.com/realm/SwiftLint) encourages better Swift style
 
 ## Travis
 
