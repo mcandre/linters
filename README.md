@@ -42,6 +42,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [pfff](https://github.com/facebook/pfff/) is a collection of tools by Facebook for analyzing code style, with support for multiple programming languages.
 
+[proselint](https://github.com/amperser/proselint/) is a linter for usage and style errors in English prose.
+
 [sloccount](http://www.dwheeler.com/sloccount/) calculates sources lines of code and extrapolates project man-hours and development cost based on industry averages.
 
 [Sonarqube](http://www.sonarqube.org/) is a cross-programming language linting system.
