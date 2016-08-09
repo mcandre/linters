@@ -503,7 +503,7 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 [pep257](https://pypi.python.org/pypi/pep257/) checks Python code for PEP257 docstring conformance.
 
-[Python Style Guide](http://www.python.org/doc/essays/styleguide.html) is a collection of documents for community standards for Python code style.
+[Python Style Guide](http://www.python.org/doc/essays/styleguide/) is a collection of documents for community standards for Python code style.
 
 ## R
 
