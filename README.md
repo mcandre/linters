@@ -609,6 +609,10 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 
 [travis-lint](https://github.com/travis-ci/travis-lint) checks `.travis.yml` for errors.
 
+## Typescript
+
+[TSLint](https://palantir.github.io/tslint/) checks your TypeScript code for readability, maintainability, and functionality errors.
+
 ## XML
 
 [xmllint](https://en.wikipedia.org/wiki/Libxml2) is provided as part of the `libxml2` package.
