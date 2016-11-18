@@ -335,9 +335,13 @@ eval `dbus-launch --auto-syntax` && \
 
 ## Go
 
-[golint](https://github.com/bytbox/golint) is an early stage Go linter.
+The standard `go` command offers `go fmt` and `go vet` for styling and checking package integrity.
 
-[lint](https://github.com/golang/lint)
+[goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) supplements `go fmt` by organizing imports.
+
+[golint](https://github.com/bytbox/golint) was an early stage Go linter.
+
+[golang/lint](https://github.com/golang/lint)
 
 ## Groovy
 
