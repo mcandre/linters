@@ -118,7 +118,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [C++ Coding Standards](http://www.gotw.ca/publications/c++cs.htm) is a textbook documenting recommended C++ code style.
 
-[Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) is a another document detailing Bjarne Stroustrup's C++ code style.
+[Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) is another document detailing Bjarne Stroustrup's C++ code style.
 
 [Effective C++](http://www.aristeia.com/books.html) details recommended patterns in C++ code.
 
@@ -477,7 +477,7 @@ To check a Makefile for syntax errors, run any `make` command. A `make lint` com
 
 [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php) is a collection of documents detailing community standards for PHP code style.
 
-[CodeIgniter General Style and Syntax](http://ellislab.com/codeigniter/user-guide/general/styleguide.html) is a another document offering PHP code style tips.
+[CodeIgniter General Style and Syntax](http://ellislab.com/codeigniter/user-guide/general/styleguide.html) is another document offering PHP code style tips.
 
 ## PNG
 
