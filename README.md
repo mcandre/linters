@@ -30,6 +30,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [editorconfig](http://editorconfig.org/) is an editor-agnostic configuration system for code styling.
 
+[editorconfig-cli](https://github.com/amyboyd/editorconfig-cli) is a Go-based editorconfig linter.
+
 [editorconfig-tools](https://www.npmjs.com/search?q=editorconfig-tools) is a command line linter against editorconfig rules.
 
 [enlint](https://github.com/mcandre/enlint) helps identify strangely encoded text files, with help from programs like Unix `find` and `enca`.
