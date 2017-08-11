@@ -603,6 +603,8 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 
 [Bashate](https://pypi.python.org/pypi/bashate/) is a pep8-like linter for bash scripts.
 
+[shfmt](https://github.com/mvdan/sh) provides consistent styling for shell scripts.
+
 ## Smalltalk
 
 [SmallLint](http://c2.com/cgi/wiki?SmallLint) integrates with the OmniBrowser to lint Smalltalk code.
