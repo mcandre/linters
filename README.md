@@ -349,6 +349,8 @@ The standard `go` command offers `go fmt` and `go vet` for styling and checking 
 
 [errcheck](https://github.com/kisielk/errcheck) identifies unchecked errors. In particular, the `-blank` flag (disabled by default) identifies errors assigned to `_`.
 
+[gometalinter](https://github.com/alecthomas/gometalinter) incorporates several linters in one, though one sub-linter `gotype` appears to be broken for `vendor/`ed Go 1.5+ code, so ensure that gotype is disabled, such as with `gometalinter --disable=gotype`.
+
 ## Groovy
 
 [CodeNarc](http://codenarc.sourceforge.net)
