@@ -435,9 +435,15 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## Make
 
-make offers a `-n` dry run option, printing the commands that would be executed.
+make offers a `-n` dry run option, though sometimes commands are still printed. Use `make -n 1>/dev/null` to suppress this output. Of course, this represents UNIX sh syntax, so redirect stdout to the null device in Windows syntax with `1>NUL` when in Windows.
 
-To check a Makefile for syntax errors, run any `make` command. A `make lint` command to lint itself would be superfluous for this reason.
+Ironically, `make -n` would fail as a `lint:` task if the Makefile *does* happen to contain syntax errors. If this paradox bothers you, consider linting this Makefile from a separate Makefile, process, build system, etc. Or realize that you will receive an appropriate exist status either way!
+
+make also offers a `--warn-undefined-variables` flag, often paired with `-n`, for warning when make variables are referenced but not defined.
+
+[checkmake](https://github.com/mrtazz/checkmake) provides experimental analysis for Makefiles.
+
+[mint](https://github.com/softprops/mint) is another linter for Makefiles.
 
 ## MP3
 
