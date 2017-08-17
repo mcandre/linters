@@ -349,6 +349,16 @@ The standard `go` command offers `go fmt` and `go vet` for styling and checking 
 
 [errcheck](https://github.com/kisielk/errcheck) identifies unchecked errors. In particular, the `-blank` flag (disabled by default) identifies errors assigned to `_`.
 
+[opennota/check](https://github.com/opennota/check) includes linters for reducing in-memory and in-transit struct size; identifying unused struct fields; and identifying unused global variables and constants.
+
+[megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) runs staticcheck, gosimple, and unused.
+
+[staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) adds additional checks compared to the built-in `go vet` tool.
+
+[gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) recommends more idiomatic code forms.
+
+[unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) reports some unused Go code elements.
+
 [gometalinter](https://github.com/alecthomas/gometalinter) incorporates several linters in one, though one sub-linter `gotype` appears to be broken for `vendor/`ed Go 1.5+ code, so ensure that gotype is disabled, such as with `gometalinter --disable=gotype`.
 
 ## Groovy
