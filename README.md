@@ -623,6 +623,8 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 
 [shfmt](https://github.com/mvdan/sh) provides consistent styling for shell scripts.
 
+[stank](https://github.com/mcandre/stank) offers several utilities for A) identifying POSIXy shell scripts among large directories of source files and B) warnings for oddities such as shebang mismatches.
+
 ## Smalltalk
 
 [SmallLint](http://c2.com/cgi/wiki?SmallLint) integrates with the OmniBrowser to lint Smalltalk code.
