@@ -613,6 +613,10 @@ The [scalac](http://www.scala-lang.org/old/sites/default/files/linuxsoft_archive
 
 Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`, `ksh -n`, ...
 
+Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. as `/bin/sh` is usually symlinked to superset shells. Observers keen to guarantee that their portable sh scripts are pure POSIX and not bash scripts, can either run `sh -n` on a system with a bare bones `/bin/sh`, such as Alpine Linux, Busybox, etc., either on bare metal or Docker.
+
+[slick](https://github.com/mcandre/slick) is a cross-platform POSIX `-n` checker. Substitute for `sh -n` for more reliable linting!
+
 [shlint](https://github.com/duggan/shlint) is a meta-linter, which runs `-n` checks, for any shells available, as well as `checkbashisms`.
 
 [Shellcheck](http://www.shellcheck.net/) is a bash linter written in Haskell.
