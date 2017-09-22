@@ -666,3 +666,7 @@ A [Jenkins](http://jenkins-ci.org/) server can generate HTML linter reports for 
 A [make](https://www.gnu.org/software/make/) task can bundle several linters together (e.g. `csslint`, HTML `tidy`, `jshint`), to lint different kinds of files all at once.
 
 [git hooks](http://git-scm.com/book/en/Customizing-Git-Git-Hooks) can be added to a git repo, preventing a programmer from submitting his work until it passes a configured suite of linters.
+
+# See Also
+
+https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
