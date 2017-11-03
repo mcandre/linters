@@ -349,6 +349,8 @@ The standard `go` command offers `go fmt` and `go vet` for styling and checking 
 
 [errcheck](https://github.com/kisielk/errcheck) identifies unchecked errors. In particular, the `-blank` flag (disabled by default) identifies errors assigned to `_`.
 
+[nakedret](https://github.com/alexkohler/nakedret) identifies named returns, which often present unexpected behavior that can obfuscate error messages. Recommended usage: `nakedret -l 0 ./...`
+
 [opennota/check](https://github.com/opennota/check) includes linters for reducing in-memory and in-transit struct size; identifying unused struct fields; and identifying unused global variables and constants.
 
 [megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) runs staticcheck, gosimple, and unused.
