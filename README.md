@@ -589,6 +589,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [rustc](http://www.rust-lang.org/), the Rust compiler, offers a `-Wall` option for additional warnings.
 
+[clippy](https://github.com/rust-lang-nursery/rust-clippy) is a Rust linter.
+
 ## Sass
 
 [scss-lint](https://github.com/causes/scss-lint) is a Sass/SCSS and CSS linter.
