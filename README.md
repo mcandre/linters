@@ -417,6 +417,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [CoffeeScript](http://coffeescript.org/) is a compiles-to-JavaScript language designed to enforce good JavaScript coding habits at compiler level.
 
+[npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) is a configurable linter to enforce standards in npm package.json files.
+
 ## JPEG
 
 [jpegtran](http://jpegclub.org/jpegtran/) manipulates .jpg files.
