@@ -311,7 +311,7 @@ eval `dbus-launch --auto-syntax` && \
 
 [erl_tidy](http://www.erlang.org/doc/man/erl_tidy.html), a library that comes with Erlang, attempts to automatically change unidiomatic code.
 
-[ehrlich](http://www.yellosoft.us/ehrlich) provides a safer linter that does NOT automatically change your code.
+[ehrlich](https://github.com/mcandre/ehrlich) provides a safer linter that does NOT automatically change your code.
 
 [dialyzer](http://www.erlang.org/doc/man/dialyzer.html), a tool that comes with Erlang, helps detect type errors.
 
