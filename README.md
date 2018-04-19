@@ -94,7 +94,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [vera++](https://bitbucket.org/verateam/vera/wiki/Home) is a static analysis tool for C/C++ code.
 
-[banned.h](http://blogs.technet.com/b/security/archive/2012/08/30/microsoft-s-free-security-tools-banned-h.aspx) helps C/C++ programmers identify deprecated, unsafe dependencies.
+[banned.h](https://cloudblogs.microsoft.com/microsoftsecure/2012/08/30/microsofts-free-security-tools-banned-h/) helps C/C++ programmers identify deprecated, unsafe dependencies.
 
 [sparse](https://sparse.wiki.kernel.org/index.php/Main_Page) is designed to find potential sources of program faults, especially in kernel code.
 
@@ -128,7 +128,7 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 ## C&#35;
 
-[StyleCop](http://archive.msdn.microsoft.com/sourceanalysis) is a C# linter that enforces style guidelines.
+[StyleCop](https://github.com/StyleCop/StyleCop) is a C# linter that enforces style guidelines.
 
 [Gendarme](http://www.mono-project.com/docs/tools+libraries/tools/gendarme/) is a .NET Static analysis tool created by the mono team. Gendarme enforces best practices, and compatibility with the mono runtime.
 
@@ -301,7 +301,7 @@ eval `dbus-launch --auto-syntax` && \
 
 [elisp-lint](https://github.com/nschum/elisp-lint)
 
-[elint](http://repo.or.cz/w/emacs.git/blob/03e680f0ad11461b40b8d07e99541e2cd32681ae:/lisp/emacs-lisp/elint.el)
+[elint](http://repo.or.cz/emacs.git/blob/HEAD:/lisp/emacs-lisp/elint.el)
 
 ## ePUB
 
@@ -329,7 +329,7 @@ eval `dbus-launch --auto-syntax` && \
 
 [gParted](http://gparted.sourceforge.net/) can check for errors in several file systems.
 
-[fixmbr Windows](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/bootcons_fixmbr.mspx?mfr=true) is a DOS tool for repairing boot sectors, available in Recovery mode in Windows installation media.
+[fixmbr Windows](http://web.archive.org/web/20171024104649/http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/bootcons_fixmbr.mspx?mfr=true) is a DOS tool for repairing boot sectors, available in Recovery mode in Windows installation media.
 
 [fixmbr Linux](https://launchpad.net/~lenski/+archive/ms-sys/+packages) is a Linux tool for repairing boot sectors, part of the ms-sys package.
 
@@ -407,7 +407,7 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [JSLint](http://jslint.com/) helps coders match the code style described in [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/).
 
-[JSLint Errors](http://jslinterrors.com/) explains warnings you may see from JSHint or JSLint.
+[JSLint Errors](http://linterrors.com/js) explains warnings you may see from JSHint or JSLint.
 
 [CLosure Compiler](https://developers.google.com/closure/) refactors code to improve performance.
 
@@ -433,7 +433,7 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## LaTeX
 
-[lacheck](http://www.rootr.net/man/man/lacheck/1) comes with LaTeX.
+[lacheck](http://manpages.ubuntu.com/manpages/xenial/en/man1/lacheck.1.html) comes with LaTeX.
 
 [style-check.rb](http://www.cs.umd.edu/~nspring/software/style-check-readme.html) is a LaTeX checker written in Ruby.
 
@@ -627,7 +627,7 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 [Shellcheck](http://www.shellcheck.net/) is a bash linter written in Haskell.
 
-[checkbashisms.rb](http://manpages.ubuntu.com/manpages/natty/man1/checkbashisms.1.html) is a sh linter that reports bashisms.
+[checkbashisms.rb](http://manpages.ubuntu.com/manpages/xenial/en/man1/checkbashisms.1.html) is a sh linter that reports bashisms.
 
 [Bashate](https://pypi.python.org/pypi/bashate/) is a pep8-like linter for bash scripts.
 
