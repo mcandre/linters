@@ -639,7 +639,7 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 ## Snort
 
-[pulledpork](https://code.google.com/p/pulledpork/) helps manage Snort rulesets.
+[pulledpork](https://github.com/shirkdog/pulledpork) helps manage Snort rulesets.
 
 ## Swift
 
