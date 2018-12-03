@@ -134,6 +134,8 @@ g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-
 
 [FxCop](https://en.wikipedia.org/wiki/FxCop) is a .NET Static analysis tool created at microsoft. FxCop enforces best practices.
 
+[roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) is a collection of static analyzers developed by Microsoft with the Roslyn APIs.
+
 [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx) is a document detailing Microsoft's recommended patterns for C# code.
 
 [patterns & practices Guidance Explorer](http://guidanceexplorer.codeplex.com/) presents a graphical checklist of Microsoft style rules.
