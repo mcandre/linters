@@ -537,6 +537,8 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 
 [Python Style Guide](http://www.python.org/doc/essays/styleguide/) is a collection of documents for community standards for Python code style.
 
+[safety](https://pypi.org/project/safety/) identifies installed pip packages known to include vulnerabilities.
+
 ## R
 
 CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) package.
