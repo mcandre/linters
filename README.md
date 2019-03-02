@@ -36,6 +36,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [enlint](https://github.com/mcandre/enlint) helps identify strangely encoded text files, with help from programs like Unix `find` and `enca`.
 
+[dotenv-linter](https://github.com/wemake-services/dotenv-linter) finds errors and stylistic violations in `.env` files.
+
 [gtdlint](https://github.com/mcandre/gtdlint) identifies TODO notes left in code comments, with help from `grep`.
 
 [lili](https://github.com/mcandre/lili) scans projects for strange line endings.
