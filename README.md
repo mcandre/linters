@@ -72,6 +72,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [Web Package Update Checker](https://github.com/fulldecent/web-puc) validates web projects to ensure they use the latest available versions of web packages (like Bootstrap, Font Awesome, JQuery).
 
+[write-good](https://github.com/btford/write-good) validuates english prose with the aim of helping developers write better code.
+
 ## Android
 
 [lint](http://developer.android.com/tools/help/lint.html) is a tool for static analysis of Android projects.
@@ -462,6 +464,10 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 [checkmake](https://github.com/mrtazz/checkmake) provides experimental analysis for Makefiles.
 
 [mint](https://github.com/softprops/mint) is another linter for Makefiles.
+
+## Markdown
+
+[remark](https://github.com/remarkjs/remark-lint) checks markdown files for various errors.
 
 ## MP3
 
