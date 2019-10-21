@@ -232,6 +232,11 @@ Linux .conf configuration files may vary in format, but many popular services of
 
 `slapd -Tt`
 
+### SQL (PostgreSQL, MySQL, MSSQL, ...)
+
+* SQL implementations tend to include an `EXPLAIN`... statement which can validate syntax for individual statements.
+* [prql](https://github.com/mcandre/prql) is a command line SQL syntax validator for SQL scripts.
+
 ### Squid
 
 `squid -k (check | parse)`
