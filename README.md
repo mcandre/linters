@@ -546,6 +546,8 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 
 [safety](https://pypi.org/project/safety/) identifies installed pip packages known to include vulnerabilities.
 
+[wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) is the strictest and most opinionated python linter ever.
+
 ## R
 
 CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) package.
