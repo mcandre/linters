@@ -70,6 +70,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [Code Climate](https://codeclimate.com/) is a paid web service for automatically generating code quality reports.
 
+[Vale](https://github.com/errata-ai/vale) validates English text against a wide variety of prebuilt style guides, and is easily and highly configurable.
+
 [Web Package Update Checker](https://github.com/fulldecent/web-puc) validates web projects to ensure they use the latest available versions of web packages (like Bootstrap, Font Awesome, JQuery).
 
 [write-good](https://github.com/btford/write-good) validates english prose with the aim of helping developers write better code.
