@@ -72,7 +72,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [Web Package Update Checker](https://github.com/fulldecent/web-puc) validates web projects to ensure they use the latest available versions of web packages (like Bootstrap, Font Awesome, JQuery).
 
-[write-good](https://github.com/btford/write-good) validuates english prose with the aim of helping developers write better code.
+[write-good](https://github.com/btford/write-good) validates english prose with the aim of helping developers write better code.
 
 ## Android
 
