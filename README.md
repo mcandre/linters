@@ -474,7 +474,9 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 
 ## Markdown
 
-[remark](https://github.com/remarkjs/remark-lint) checks markdown files for various errors.
+[markdownlint](https://github.com/DavidAnson/markdownlint) enforces standards for Markdown and CommonMark files via Node.js or [Ruby](https://github.com/markdownlint/markdownlint)
+
+[remark](https://github.com/remarkjs/remark-lint) checks Markdown files for various errors.
 
 ## MP3
 
