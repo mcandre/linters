@@ -1,4 +1,4 @@
-# linters - an introduction to static code analysis
+# linters: a community wiki for improving code quality
 
 # What is a linter?
 
