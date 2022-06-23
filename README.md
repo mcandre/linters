@@ -16,6 +16,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 ## *
 
+[cicada](https://github.com/mcandre/cicada) scans environments for software components at risk of falling off of LTS security support timelines.
+
 [check-all-the-things](https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/plain/doc/README) is a command-line tool for automatically running many static analysis and similar tools over packages and upstream codebases.
 
 [anorack](https://github.com/jwilk/anorack) is a specialized spell-checker that finds incorrect indefinite articles.
