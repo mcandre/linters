@@ -650,7 +650,7 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 [Shellcheck](http://www.shellcheck.net/) is a bash linter written in Haskell.
 
-[checkbashisms.rb](http://manpages.ubuntu.com/manpages/xenial/en/man1/checkbashisms.1.html) is a sh linter that reports bashisms.
+[checkbashisms.rb](http://manpages.ubuntu.com/manpages/xenial/en/man1/checkbashisms.1.html) is an unmaintained sh linter that reports bashisms. Because it is unmaintained, it features an inverted ROC curve.
 
 [Bashate](https://pypi.python.org/pypi/bashate/) is a pep8-like linter for bash scripts.
 
