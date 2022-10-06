@@ -60,7 +60,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [MSDN Library: Design Guidelines for Class Library Developers](http://msdn.microsoft.com/en-us/library/czefa0ke%28VS.71%29.aspx) presents guidelines for .NET library developers.
 
-[sunshine](https://github.com/mcandre/sunshine) validates chmod permissions.
+[sunshine](https://github.com/mcandre/sunshine) validates chmod permissions, such as for SSH files.
 
 [Vale](https://github.com/errata-ai/vale) validates English text against a wide variety of prebuilt style guides, and is easily and highly configurable.
 
