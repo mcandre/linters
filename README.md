@@ -22,11 +22,9 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [anorack](https://github.com/jwilk/anorack) is a specialized spell-checker that finds incorrect indefinite articles.
 
-[aspelllint](https://github.com/mcandre/aspelllint) provides spell checking for large projects.
-
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
 
-[cowl](https://github.com/mcandre/cowl) identifies lines wider than n columns (typically 80), with help from `grep`.
+[Code Climate](https://codeclimate.com/) is a paid web service for automatically generating code quality reports.
 
 [eclint](https://github.com/jedmao/eclint) can derive the code style used in a project, and save it as a dotfile for use in other projects.
 
@@ -36,15 +34,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [editorconfig-tools](https://www.npmjs.com/search?q=editorconfig-tools) is a command line linter against editorconfig rules.
 
-[enlint](https://github.com/mcandre/enlint) helps identify strangely encoded text files, with help from programs like Unix `find` and `enca`.
-
 [dotenv-linter](https://github.com/wemake-services/dotenv-linter) finds errors and stylistic violations in `.env` files.
-
-[gtdlint](https://github.com/mcandre/gtdlint) identifies TODO notes left in code comments, with help from `grep`.
-
-[lili](https://github.com/mcandre/lili) scans projects for strange line endings.
-
-[line-detector](https://github.com/mcandre/line-detector) identifies line ending formats.
 
 [lint-spaces](https://github.com/schorfES/node-lintspaces) checks line endings and indentation.
 
@@ -70,7 +60,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [MSDN Library: Design Guidelines for Class Library Developers](http://msdn.microsoft.com/en-us/library/czefa0ke%28VS.71%29.aspx) presents guidelines for .NET library developers.
 
-[Code Climate](https://codeclimate.com/) is a paid web service for automatically generating code quality reports.
+[sunshine](https://github.com/mcandre/sunshine) validates chmod permissions.
 
 [Vale](https://github.com/errata-ai/vale) validates English text against a wide variety of prebuilt style guides, and is easily and highly configurable.
 
@@ -189,6 +179,10 @@ Linux .conf configuration files may vary in format, but many popular services of
 ### dhcpd
 
 `dhcpd (-t -cf) | (-T -lf)`
+
+### Homebrew
+
+`brew doctor`
 
 ### Lighttp
 
