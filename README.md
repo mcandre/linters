@@ -62,6 +62,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [sunshine](https://github.com/mcandre/sunshine) validates chmod permissions, such as for SSH files.
 
+[trufflehog](https://github.com/trufflesecurity/trufflehog) reports credential exposure.
+
 [Vale](https://github.com/errata-ai/vale) validates English text against a wide variety of prebuilt style guides, and is easily and highly configurable.
 
 [Web Package Update Checker](https://github.com/fulldecent/web-puc) validates web projects to ensure they use the latest available versions of web packages (like Bootstrap, Font Awesome, JQuery).
