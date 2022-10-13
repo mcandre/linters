@@ -28,6 +28,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [eclint](https://github.com/jedmao/eclint) can derive the code style used in a project, and save it as a dotfile for use in other projects.
 
+[driftwood](https://github.com/trufflesecurity/driftwood) looks up private keys in common registries.
+
 [editorconfig](http://editorconfig.org/) is an editor-agnostic configuration system for code styling.
 
 [editorconfig-cli](https://github.com/amyboyd/editorconfig-cli) is a Go-based editorconfig linter.
