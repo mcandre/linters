@@ -8,7 +8,7 @@ The C compiler already includes some checks for risky code, such as scanning to 
 
 By *statically* analyzing the code itself before compilation, programmers could maintain a higher level of code discipline, increasing the reliability of the code in multiple compilers and environments.
 
-As time went on, static code analysis was eclipsed by dynamic analysis: [unit tests](https://en.wikipedia.org/wiki/Unit_test), that examine how code behaves for different inputs and corner cases.
+As time went on, static code analysis was nearly eclipsed in attention, by dynamic analysis: [unit tests](https://en.wikipedia.org/wiki/Unit_test), that examine how code behaves for different inputs and corner cases. But the linting practice has restored, and spread to more languages--C++ and beyond.
 
 Today, linters are used to supplement unit tests, serving primarily as low priority style checkers. Linters are being written for many programming languages and document formats, detailed below.
 
