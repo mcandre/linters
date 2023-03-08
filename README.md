@@ -2,7 +2,9 @@
 
 # What is a linter?
 
-Originally, `lint` was a tool for scanning C code for potentially risky lines. The C compiler includes some checks for risky code, such as making sure that function signatures match. And unit testing adds dynamic checks to verify the behavior of a running program. But `lint` adds even more checks, that neither the compiler nor the tests scan.
+Originally, `lint` was a tool for scanning C code for potentially risky lines of code.
+
+The C compiler already includes some checks for risky code, such as scanning to making sure that function signatures match. And unit testing adds dynamic checks to verify the behavior of a running program. Beyond these checks, `lint` adds even more checks, that neither the compiler nor the tests scan.
 
 By *statically* analyzing the code itself before compilation, programmers could maintain a higher level of code discipline, increasing the reliability of the code in multiple compilers and environments.
 
