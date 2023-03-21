@@ -604,6 +604,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [churn](https://github.com/danmayer/churn) looks at version control history to look for frequently changing code, often a sign of poor coding.
 
+[laser](https://github.com/michaeledgar/laser) provides basic detection for logic errors.
+
 [metric_fu](https://github.com/metricfu/metric_fu) scans with a suite of Ruby linters.
 
 [laser](https://github.com/michaeledgar/laser) is a slightly out of date Ruby linter.
