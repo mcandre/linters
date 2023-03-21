@@ -614,6 +614,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [ruby-lint](https://github.com/YorickPeterse/ruby-lint) relies on the pure Ruby [parser](https://rubygems.org/gems/parser), so it may lag behind in supported Ruby version syntaxes.
 
+[standard](https://github.com/testdouble/standard) provides a Ruby formatter.
+
 ## Rust
 
 [rustc](http://www.rust-lang.org/), the Rust compiler, offers a `-Wall` option for additional warnings.
