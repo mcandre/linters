@@ -598,7 +598,7 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [brakeman](https://github.com/presidentbeef/brakeman) is a linter for [Ruby on Rails](http://rubyonrails.org/) projects.
 
-[pelusa](https://github.com/codegram/pelusa) is a linter for specifically [Rubinius](http://rubini.us/) Ruby code.
+[fasterer](https://github.com/DamirSvrtan/fasterer) provides performance tips.
 
 [flog](http://ruby.sadi.st/Flog.html) identifies the most complex code in your codebase.
 
