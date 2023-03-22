@@ -544,6 +544,8 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 
 [bandit](https://github.com/openstack/bandit) security focused Python static analyzer. Your mileage may vary, regarding the usefulness of its warnings. (For example, if your application intends to open an SSH connection, then it is not particularly helpful for bandit to complain about open SSH connections.)
 
+[dlint](https://github.com/dlint-py/dlint)) is another security focused analyzer.
+
 [flake8](https://pypi.python.org/pypi/flake8) is a meta linter for Python, including PyFlakes, pep8, and McCabe.
 
 [flake8-quotes](https://github.com/zheller/flake8-quotes) is a plugin for flake8 that enforces single vs double quotes.
