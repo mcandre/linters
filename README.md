@@ -542,23 +542,25 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 
 ## Python
 
-[PyLint](http://www.pylint.org/) is fast and customizable.
-
-[PyFlakes](https://pypi.python.org/pypi/pyflakes) offers few configuration options.
-
-[PyChecker](http://pychecker.sourceforge.net/) requires executing code in order to analyze it.
+[bandit](https://github.com/openstack/bandit) security focused Python static analyzer. Your mileage may vary, regarding the usefulness of its warnings. (For example, if your application intends to open an SSH connection, then it is not particularly helpful for bandit to complain about open SSH connections.)
 
 [flake8](https://pypi.python.org/pypi/flake8) is a meta linter for Python, including PyFlakes, pep8, and McCabe.
 
 [flake8-quotes](https://github.com/zheller/flake8-quotes) is a plugin for flake8 that enforces single vs double quotes.
 
-[bandit](https://github.com/openstack/bandit) security focused Python static analyzer. Your mileage may vary, regarding the usefulness of its warnings. (For example, if your application intends to open an SSH connection, then it is not particularly helpful for bandit to complain about open SSH connections.)
-
 [pep8](https://pypi.python.org/pypi/pep8/) checks Python code for PEP8 conformance.
 
 [pep257](https://pypi.python.org/pypi/pep257/) checks Python code for PEP257 docstring conformance.
 
+[PyChecker](http://pychecker.sourceforge.net/) requires executing code in order to analyze it.
+
+[PyLint](http://www.pylint.org/) is fast and customizable.
+
+[PyFlakes](https://pypi.python.org/pypi/pyflakes) offers few configuration options.
+
 [Python Style Guide](http://www.python.org/doc/essays/styleguide/) is a collection of documents for community standards for Python code style.
+
+[refurb](https://github.com/dosisod/refurb) recommends Python idioms.
 
 [safety](https://pypi.org/project/safety/) identifies installed pip packages known to include vulnerabilities.
 
