@@ -400,21 +400,23 @@ The standard `go` command offers `go fmt` and `go vet` for styling and checking 
 
 ## Java
 
+[Android lint](http://tools.android.com/tips/lint) checks Android source files for potential bugs and optimization improvements for correctness, security, performance, usability, accessibility, and internationalization.
+
+[CheckStyle](http://checkstyle.sourceforge.net/), with decent CLI support, as well as decent Maven support, through [maven-checkstyle-plugin](http://maven.apache.org/plugins/maven-checkstyle-plugin/). Checkstyle also supports identifying undocumented code, through its [JavaDoc](http://checkstyle.sourceforge.net/config_javadoc.html) settings.
+
+[Error-prone](https://github.com/google/error-prone) catches common Java mistakes as compile-time errors.
+
+[FindBugs](http://findbugs.sourceforge.net/) is an old Java linter, but has kept up with Java advances (for example, by offering a standard Gradle plugin).
+
+[google-java-format](https://github.com/google/google-java-format) formats Java code according to the Google Style Guide.
+
+[Infer](http://fbinfer.com/) is a static program analyzer for Java, C, and Objective-C, written in OCaml.
+
 [javac](http://www.oracle.com/technetwork/java/javase/downloads/index.html) offers a `-Xlint` option to print additional warnings. The [maven-compiler-plugin](https://maven.apache.org/plugins/maven-compiler-plugin/compile-mojo.html) can be configured to automatically pass `-Xlint` to the underlying Java compiler every time a project is built.
 
 In Java 8, javac will feature an `-Xdoclint` option to identify undocumented code.
 
-[CheckStyle](http://checkstyle.sourceforge.net/), with decent CLI support, as well as decent Maven support, through [maven-checkstyle-plugin](http://maven.apache.org/plugins/maven-checkstyle-plugin/). Checkstyle also supports identifying undocumented code, through its [JavaDoc](http://checkstyle.sourceforge.net/config_javadoc.html) settings.
-
-[FindBugs](http://findbugs.sourceforge.net/) is an old Java linter, but has kept up with Java advances (for example, by offering a standard Gradle plugin).
-
 [PMD](http://pmd.sourceforge.net/) detects flaws and duplicated code.
-
-[Error-prone](https://github.com/google/error-prone) catches common Java mistakes as compile-time errors.
-
-[Android lint](http://tools.android.com/tips/lint) checks Android source files for potential bugs and optimization improvements for correctness, security, performance, usability, accessibility, and internationalization.
-
-[Infer](http://fbinfer.com/) is a static program analyzer for Java, C, and Objective-C, written in OCaml.
 
 ## JavaScript / Node.js
 
