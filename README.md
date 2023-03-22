@@ -460,6 +460,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [luac](http://www.lua.org/manual/4.0/luac.html) offers a built-in `-p` option for syntax validation..
 
+[luacheck](https://github.com/mpeterv/luacheck) is a Lua linter.
+
 [lualint](https://github.com/philips/lualint) is an early Lua linter.
 
 [lua-checker](https://code.google.com/p/lua-checker/) is another old Lua linter.
