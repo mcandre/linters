@@ -436,6 +436,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) is a configurable linter to enforce standards in npm package.json files.
 
+[rslint](https://rslint.org/) is a fast JavaScript linter.
+
 [standardjs](https://standardjs.com/) is a JavaScript linter and formatter.
 
 ## JPEG
