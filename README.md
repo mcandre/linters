@@ -418,14 +418,6 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## JavaScript / Node.js
 
-[ESLint](http://eslint.org) is a pluggable and configurable javascript linter that aims to fix the non-extensibility issues of JSHint and JSLint.
-
-[JSHint](http://jshint.com/) is far and away the best modern linter available. It's simultaneously easy to use, and highly customizable; offering global and directory specific `.jshintrc` files for rule configuration; and global and directory specific `.jshintignore` files for ignoring certain files and directories, trimming down `jshint`'s output to exactly what you want to see.
-
-[JSLint](http://jslint.com/) helps coders match the code style described in [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/).
-
-[JSLint Errors](http://linterrors.com/js) explains warnings you may see from JSHint or JSLint.
-
 [CLosure Compiler](https://developers.google.com/closure/) refactors code to improve performance.
 
 [Closure Linter](https://pypi.python.org/pypi/closure_linter/) checks JavaScript for conformance to the Google Style Guide.
@@ -434,7 +426,17 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [CoffeeScript](http://coffeescript.org/) is a compiles-to-JavaScript language designed to enforce good JavaScript coding habits at compiler level.
 
+[ESLint](http://eslint.org) is a pluggable and configurable javascript linter that aims to fix the non-extensibility issues of JSHint and JSLint.
+
+[JSHint](http://jshint.com/) is far and away the best modern linter available. It's simultaneously easy to use, and highly customizable; offering global and directory specific `.jshintrc` files for rule configuration; and global and directory specific `.jshintignore` files for ignoring certain files and directories, trimming down `jshint`'s output to exactly what you want to see.
+
+[JSLint](http://jslint.com/) helps coders match the code style described in [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/).
+
+[JSLint Errors](http://linterrors.com/js) explains warnings you may see from JSHint or JSLint.
+
 [npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) is a configurable linter to enforce standards in npm package.json files.
+
+[standardjs](https://standardjs.com/) is a JavaScript linter and formatter.
 
 ## JPEG
 
