@@ -376,6 +376,8 @@ The standard `go` command offers `go fmt` and `go vet` for styling and checking 
 
 [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) recommends more idiomatic code forms.
 
+[unconvert](https://github.com/mdempsky/unconvert) detects redundant conversions.
+
 [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) reports some unused Go code elements.
 
 [gometalinter](https://github.com/alecthomas/gometalinter) incorporates several linters in one, though one sub-linter `gotype` appears to be broken for `vendor/`ed Go 1.5+ code, so ensure that gotype is disabled, such as with `gometalinter --disable=gotype`.
