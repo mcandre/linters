@@ -638,6 +638,10 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [clippy](https://github.com/rust-lang-nursery/rust-clippy) is a Rust linter.
 
+[cargo-audit](https://crates.io/crates/cargo-audit) scans Rust dependencies for vulnerabilities.
+
+[rustfmt](https://github.com/rust-lang/rustfmt) for styling.
+
 ## Sass
 
 [sass-lint](https://github.com/sasstools/sass-lint) is a Sass/SCSS linter.
