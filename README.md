@@ -486,6 +486,8 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 
 [mint](https://github.com/softprops/mint) is another linter for Makefiles.
 
+[unmake](https://github.com/mcandre/unmake) is a POSIX makefile linter focusing on portability.
+
 ## Markdown
 
 [markdownlint](https://github.com/DavidAnson/markdownlint) enforces standards for Markdown and CommonMark files via Node.js or [Ruby](https://github.com/markdownlint/markdownlint)
