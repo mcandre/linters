@@ -482,9 +482,7 @@ Ironically, `make -n` would fail as a `lint:` task if the Makefile *does* happen
 
 make also offers a `--warn-undefined-variables` flag, often paired with `-n`, for warning when make variables are referenced but not defined.
 
-[checkmake](https://github.com/mrtazz/checkmake) provides experimental analysis for Makefiles.
-
-[mint](https://github.com/softprops/mint) is another linter for Makefiles.
+[checkmake](https://github.com/mrtazz/checkmake) provides experimental analysis for makefiles.
 
 [unmake](https://github.com/mcandre/unmake) is a POSIX makefile linter focusing on portability.
 
