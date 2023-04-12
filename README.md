@@ -14,6 +14,8 @@ Today, linters are used to supplement unit tests, serving primarily as low prior
 
 [Wikipedia:List of tools for static analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 
+This document often interprets the term "linter" in a wide sense, to include resources for SAST, SCA, memory management validators, code formatters, and style guides.
+
 # Linters
 
 Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for even more warnings, and also `-Werror` to treat warnings as errors, preventing dirty code from compiling.
