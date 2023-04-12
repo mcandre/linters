@@ -733,6 +733,8 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 `terraform validate` provides built-in suport for basic syntactical correctness.
 
+[terrascan](https://runterrascan.io/) scans Terraform CVE's.
+
 [tflint](https://github.com/terraform-linters/tflint) checks Terraform plans.
 
 ## Travis
