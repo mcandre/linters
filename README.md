@@ -291,6 +291,8 @@ eval `dbus-launch --auto-syntax` && \
 
 [ansible-lint](https://ansible-lint.readthedocs.io/) is a classic Ansible linter.
 
+[Lockdown](https://www.lockdownenterprise.com/) provides recommendations for securing Ansible playbooks.
+
 [steampunk-spotter](https://pypi.org/project/steampunk-spotter/) offers additional checks for Ansible playbooks.
 
 ## Arch
