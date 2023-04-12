@@ -729,6 +729,8 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 ## Terraform
 
+`terraform validate` provides built-in suport for basic syntactical correctness.
+
 [tflint](https://github.com/terraform-linters/tflint) checks Terraform plans.
 
 ## Travis
