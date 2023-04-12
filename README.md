@@ -278,6 +278,16 @@ eval `dbus-launch --auto-syntax` && \
 
 `vsftpd -olisten=NO`
 
+## Arch
+
+[arch-audit](https://github.com/ilpianista/arch-audit) generates CVE reports for Arch Linux.
+
+## BSD
+
+[pkg-audit](https://man.freebsd.org/cgi/man.cgi?query=pkg-audit&sektion=8&n=1) generates CVE reports for FreeBSD, DragonflyBSD, and HardenedBSD.
+
+[pkg_admin](https://man.netbsd.org/pkg_admin.1) provides an `audit` subcommand for generating CVE reports on NetBSD.
+
 ## Coq
 
 [Coq](http://coq.inria.fr/) is a proof assistant, requiring all programs to be logically valid.
