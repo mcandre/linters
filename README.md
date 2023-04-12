@@ -47,6 +47,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [dotenv-linter](https://github.com/wemake-services/dotenv-linter) finds errors and stylistic violations in `.env` files.
 
+[KICS](https://kics.io/) scans Docker and Kubernetes resources.
+
 [lint-spaces](https://github.com/schorfES/node-lintspaces) checks line endings and indentation.
 
 [pfff](https://github.com/facebook/pfff/) is a collection of tools by Facebook for analyzing code style, with support for multiple programming languages.
@@ -480,10 +482,6 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 [jq](http://stedolan.github.io/jq/) isn't a linter per-se, but jq can prettify JSON for creating more readable code examples.
 
 [jsonschemalint](https://github.com/nickcmaynard/jsonschemalint) verifies JSON data against a given JSON schema.
-
-## Kubernetes
-
-[KICS](https://kics.io/) scans Kubernetes resources.
 
 ## LaTeX
 
