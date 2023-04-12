@@ -125,7 +125,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-Wall` and `-Wextra` options. g++ also includes a `-Weffc++` option to check against rules in Effective C++.
 
-[cpplint](https://pypi.python.org/pypi/cpplint/) is provided as part of the `google-styleguide`.
+[cpplint](https://pypi.python.org/pypi/cpplint/) is provided as part of the `google-styleguide`. Note that cpplint is a Python tool, which means you would also want to run Python SCA tools on all environments that install cpplint.
 
 [nsiqcppstyle](https://code.google.com/p/nsiqcppstyle/) is a South Korean C++ style checker.
 
@@ -711,7 +711,7 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 [checkbashisms.rb](http://manpages.ubuntu.com/manpages/xenial/en/man1/checkbashisms.1.html) is an unmaintained sh linter that reports bashisms. Because it is unmaintained, it features an inverted ROC curve.
 
-[Bashate](https://pypi.python.org/pypi/bashate/) is a pep8-like linter for bash scripts.
+[bashate](https://pypi.python.org/pypi/bashate/) is a pep8-like linter for bash scripts. Note that bashate is a Python tool, which means you would also want to run Python SCA tools on all environments that install bashate.
 
 [shfmt](https://github.com/mvdan/sh) provides consistent styling for shell scripts.
 
@@ -751,7 +751,7 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 ## YAML
 
-[yamllint](https://github.com/adrienverge/yamllint) is a syntax checker and linter for YAML source.
+[yamllint](https://github.com/adrienverge/yamllint) is a syntax checker and linter for YAML source. Note that yamllint is a Python tool, which means you would also want to run Python SCA tools on all environments that install yamllint.
 
 # Continuous Integration
 
