@@ -278,6 +278,14 @@ eval `dbus-launch --auto-syntax` && \
 
 `vsftpd -olisten=NO`
 
+## Ansible
+
+[ansible-later](https://ansible-later.geekdocs.de/) checks Ansible playbooks.
+
+[ansible-lint](https://ansible-lint.readthedocs.io/) is a classic Ansible linter.
+
+[steampunk-spotter](https://pypi.org/project/steampunk-spotter/) offers additional checks for Ansible playbooks.
+
 ## Arch
 
 [arch-audit](https://github.com/ilpianista/arch-audit) generates CVE reports for Arch Linux.
@@ -464,6 +472,10 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [jsonschemalint](https://github.com/nickcmaynard/jsonschemalint) verifies JSON data against a given JSON schema.
 
+## Kubernetes
+
+[KICS](https://kics.io/) scans Kubernetes resources.
+
 ## LaTeX
 
 [lacheck](http://manpages.ubuntu.com/manpages/xenial/en/man1/lacheck.1.html) comes with LaTeX.
@@ -523,6 +535,8 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 [fpc](http://www.freepascal.org/) offers a `-vw` flag to show additional warnings.
 
 ## Perl
+
+[cpan-audit](https://metacpan.org/dist/CPAN-Audit/view/script/cpan-audit) scans Perl projects for CVE's.
 
 [perl](http://www.perl.org/) offers extra warnings through the `use warnings;` (`#!/usr/bin/env perl -w`) and `use strict;` options.
 
