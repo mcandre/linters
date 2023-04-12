@@ -737,6 +737,8 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 [tflint](https://github.com/terraform-linters/tflint) checks Terraform plans.
 
+[tfsec](https://github.com/aquasecurity/tfsec) scans Terraform CVE's.
+
 ## Travis
 
 [travis-lint](https://github.com/travis-ci/travis-lint) checks `.travis.yml` for errors.
