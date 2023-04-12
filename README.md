@@ -727,6 +727,10 @@ Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. 
 
 [swiftlint](https://github.com/realm/SwiftLint) encourages better Swift style
 
+## Terraform
+
+[tflint](https://github.com/terraform-linters/tflint) checks Terraform plans.
+
 ## Travis
 
 [travis-lint](https://github.com/travis-ci/travis-lint) checks `.travis.yml` for errors.
