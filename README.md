@@ -576,6 +576,8 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 
 [puppet-lint](http://puppet-lint.com/) checks Puppet scripts for proper style.
 
+[vulnerability](https://forge.puppet.com/modules/enterprisemodules/vulnerability/readme) checks for Puppet CVE's.
+
 ## Python
 
 [bandit](https://github.com/openstack/bandit) security focused Python static analyzer. Your mileage may vary, regarding the usefulness of its warnings. (For example, if your application intends to open an SSH connection, then it is not particularly helpful for bandit to complain about open SSH connections.)
