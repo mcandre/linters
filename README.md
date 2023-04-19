@@ -341,6 +341,8 @@ eval `dbus-launch --auto-syntax` && \
 
 ## Docker
 
+[Docker First Aid Kit](https://github.com/mcandre/docker-first-aid-kit) provides performance and general advice for Docker newbies.
+
 [dockerlint](https://www.npmjs.com/package/dockerlint)
 
 ## Elisp
