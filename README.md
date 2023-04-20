@@ -669,6 +669,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 ## Rust
 
+[crev](https://github.com/crev-dev/cargo-crev) assists with dependency reviews.
+
 [rustc](http://www.rust-lang.org/), the Rust compiler, offers a `-Wall` option for additional warnings.
 
 [clippy](https://github.com/rust-lang-nursery/rust-clippy) is a Rust linter.
