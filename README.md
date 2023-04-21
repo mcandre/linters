@@ -101,7 +101,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [splint](http://lclint.cs.virginia.edu/) has largely replaced the old `lint` tool, offering the same old checks, as well as additional security checks.
 
-[lint](http://www.unix.com/man-page/FreeBSD/1/lint) the original.
+[lint](https://en.wikipedia.org/wiki/Lint_%28software%29) the original C static analysis tool, and the associated tools FreeBSD `lint` (defunct) and NetBSD `lint`.
 
 [gcc](http://gcc.gnu.org/) offers additional warnings, through its `-Wall` and `-Wextra` options.
 
