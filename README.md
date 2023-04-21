@@ -569,6 +569,10 @@ make also offers a `--warn-undefined-variables` flag, often paired with `-n`, fo
 
 [CodeIgniter General Style and Syntax](http://ellislab.com/codeigniter/user-guide/general/styleguide.html) is another document offering PHP code style tips.
 
+## pkgsrc
+
+[pkglint](https://github.com/rillig/pkglint) checks `pkgsrc` projects, including BSD makefiles, embedded shell commands, and pkgsrc conventions.
+
 ## PNG
 
 [pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) analyzes .png files for errors.
