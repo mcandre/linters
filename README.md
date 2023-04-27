@@ -509,11 +509,7 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 make offers a `-n` dry run option, though sometimes commands are still printed. Use `make -n 1>/dev/null` to suppress this output. Of course, this represents UNIX sh syntax, so redirect stdout to the null device in Windows syntax with `1>NUL` when in Windows.
 
-Ironically, `make -n` would fail as a `lint:` task if the Makefile *does* happen to contain syntax errors. If this paradox bothers you, consider linting this Makefile from a separate Makefile, process, build system, etc. Or realize that you will receive an appropriate exist status either way!
-
-make also offers a `--warn-undefined-variables` flag, often paired with `-n`, for warning when make variables are referenced but not defined.
-
-[checkmake](https://github.com/mrtazz/checkmake) provides experimental analysis for makefiles.
+GNU make offers an additional `--warn-undefined-variables` flag to check for... undefined variables.
 
 [unmake](https://github.com/mcandre/unmake) is a POSIX makefile linter focusing on portability.
 
