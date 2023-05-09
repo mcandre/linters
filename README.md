@@ -385,13 +385,17 @@ eval `dbus-launch --auto-syntax` && \
 
 [fortranlint](http://stellar.cleanscape.net/products/fortranlint/)
 
+## GIF
+
+[buttery](https://github.com/mcandre/buttery) is a GIF loop editor, with an option to validate basic GIF format file integrity.
+
 ## Go
 
 The standard `go` command offers `go fmt` and `go vet` for styling and checking package integrity.
 
 [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) supplements `go fmt` by organizing imports.
 
-[golint](https://github.com/bytbox/golint) was an early stage Go linter.
+[golint](https://github.com/bytbox/golint) was an early stage Go linter, since deprecated in favor of staticcheck.
 
 [golang/lint](https://github.com/golang/lint)
 
