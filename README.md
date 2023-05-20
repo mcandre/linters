@@ -55,8 +55,6 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [proselint](https://github.com/amperser/proselint/) is a linter for usage and style errors in English prose.
 
-[sloccount](http://www.dwheeler.com/sloccount/) calculates sources lines of code and extrapolates project man-hours and development cost based on industry averages.
-
 [Sonarqube](http://www.sonarqube.org/) is a cross-programming language linting system.
 
 [Phabricator Contributing Guide](http://www.phabricator.com/docs/phabricator/article/Contributor_Introduction.html#suggested-reading) offers coding standards generally, as well as for PHP, and JavaScript code specifically.
@@ -84,6 +82,14 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 [Web Package Update Checker](https://github.com/fulldecent/web-puc) validates web projects to ensure they use the latest available versions of web packages (like Bootstrap, Font Awesome, JQuery).
 
 [write-good](https://github.com/btford/write-good) validates english prose with the aim of helping developers write better code.
+
+## SLOC
+
+[sloccount](http://www.dwheeler.com/sloccount/) is an older line counter.
+
+[cloc](https://github.com/AlDanial/cloc) is a newer line counter with support for more programming languages.
+
+[wc](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/wc.html) is a line counter for UNIX systems.
 
 ## Android
 
