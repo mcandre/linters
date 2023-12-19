@@ -1,4 +1,6 @@
-# linters: a community wiki for improving code quality
+# Linter Community Wiki
+
+Welcome!
 
 # What is a linter?
 
