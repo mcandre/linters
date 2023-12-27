@@ -349,6 +349,8 @@ eval `dbus-launch --auto-syntax` && \
 
 ## Docker
 
+[Docker](https://www.docker.com/) features a `docker scout cves -e <image>` command to scans images for vulnerabilities.
+
 [Docker First Aid Kit](https://github.com/mcandre/docker-first-aid-kit) provides performance and general advice for Docker newbies.
 
 [dockerlint](https://www.npmjs.com/package/dockerlint)
