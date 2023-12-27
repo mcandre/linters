@@ -99,7 +99,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 ## Awk
 
-[gawk](http://www.gnu.org/software/gawk/manual/gawk.html) has a `--lint` flag that enables some checks.
+[gawk](http://www.gnu.org/software/gawk/manual/gawk.html) has a `--lint` flag that enables some portability checks.
 
 ## BitTorrent
 
