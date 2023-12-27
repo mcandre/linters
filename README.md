@@ -719,6 +719,8 @@ Many shells offer a `-n` option for validating syntax, e.g. `bash -n`, `zsh -n`,
 
 Note that `sh -n` on many systems actually expands to `bash -n`, `ksh -n`, etc. as `/bin/sh` is usually symlinked to superset shells. Observers keen to guarantee that their portable sh scripts are pure POSIX and not bash scripts, can either run `sh -n` on a system with a bare bones `/bin/sh`, such as Alpine Linux, Busybox, etc., either on bare metal or Docker.
 
+[beltaloada](https://github.com/mcandre/beltaloada) is a convention for writing build systems in pure (POSIX) sh, that enables deeper linting of shell code compared to make and other non-shell build systems.
+
 [slick](https://github.com/mcandre/slick) is a cross-platform POSIX `-n` checker. Substitute for `sh -n` for more reliable linting!
 
 [shlint](https://github.com/duggan/shlint) is a meta-linter, which runs `-n` checks, for any shells available, as well as `checkbashisms`.
