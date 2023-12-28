@@ -683,6 +683,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 ## Rust
 
+The Rust package manager provides a `cargo check` command as a faster, surface level check than full app compilation.
+
 [crev](https://github.com/crev-dev/cargo-crev) assists with dependency reviews.
 
 [rustc](http://www.rust-lang.org/), the Rust compiler, offers a `-Wall` option for additional warnings.
