@@ -375,6 +375,8 @@ eval `dbus-launch --auto-syntax` && \
 
 [elvis](https://github.com/inaka/elvis) is an Erlang style checker.
 
+[eqWALizer](https://github.com/WhatsApp/eqwalizer) is an Erlang type checker.
+
 ## F#
 
 [fantomas](https://github.com/dungpa/fantomas)
