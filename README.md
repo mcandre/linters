@@ -283,8 +283,9 @@ Linux .conf configuration files may vary in format, but many popular services of
 ### Upstart
 
 ```
-eval `dbus-launch --auto-syntax` && \
-  find . -type f -name '*.conf' -exec init-checkconf {} \;
+eval `dbus-launch --auto-syntax` &&
+  find . -type f -name '*.conf' -print |
+  xargs -n 1 init-checkconf
 ```
 
 ### varnishd
