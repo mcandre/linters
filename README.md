@@ -682,6 +682,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 [rubycritic](https://github.com/whitesmith/rubycritic) provides HTML and CLI linting.
 
+[sorbet](https://sorbet.org/) is a Ruby type checker.
+
 [standard](https://github.com/testdouble/standard) provides a Ruby formatter.
 
 ## Rust
