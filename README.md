@@ -131,7 +131,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 ## C++
 
-[cppcheck](http://cppcheck.sourceforge.net/) can check `.cpp` implementation code, as well as `.h` definition code.
+[cppcheck](http://cppcheck.sourceforge.net/) is an older linter with frequent regressions around suppressing spurious warnings. Not particularly well suited to cross platform development.
 
 g++, part of [gcc](http://gcc.gnu.org/), offers additional checks through its `-Wall` and `-Wextra` options. g++ also includes a `-Weffc++` option to check against rules in Effective C++.
 
