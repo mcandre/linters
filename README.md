@@ -34,6 +34,7 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [cicada](https://github.com/mcandre/cicada) scans environments for software components at risk of falling off of LTS security support timelines.
 
+[CodeQL](https://codeql.github.com/) supports a modest set of programming languages and configuration file formats, though language detection is flaky. Also, the CLI design is cumbersome. The easiest way to integrate CodeQL is via the GitHub Web UI.
 
 [Code Climate](https://codeclimate.com/) is a paid web service for automatically generating code quality reports.
 
