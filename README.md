@@ -405,7 +405,7 @@ eval `dbus-launch --auto-syntax` &&
 
 ## Go
 
-The standard `go` command offers `go fmt` and `go vet` for styling and checking package integrity.
+The standard `go` command offers `go fmt` and `go vet` for styling and checking package integrity. The standard [govulncheck](https://go.dev/blog/govulncheck) utility scans for vulnerabilities among dependencies and among programming language versions.
 
 [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) supplements `go fmt` by organizing imports.
 
