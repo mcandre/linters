@@ -351,7 +351,7 @@ eval `dbus-launch --auto-syntax` &&
 
 ## Docker
 
-[Docker](https://www.docker.com/) features a `docker scout cves -e <image>` command to scans images for vulnerabilities.
+[Docker](https://www.docker.com/) features a `docker scout cves -e <image>` command to scans images for vulnerabilities. As a bonus, `docker scout cves fs://<path>` recursively scans the given file path for artifact files with known vulnerabilities.
 
 [Docker First Aid Kit](https://github.com/mcandre/docker-first-aid-kit) provides performance and general advice for Docker newbies.
 
