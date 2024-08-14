@@ -409,6 +409,10 @@ The standard `go` command offers `go fmt` and `go vet` for styling and checking 
 
 The standard [govulncheck](https://go.dev/blog/govulncheck) utility scans for vulnerabilities among dependencies and among programming language versions. Note that the tool hides vulnerable packages by default, focusing narrowly only on vulnerabilities triggerable by application code, unless the option `-scan package` is provided.
 
+[deadcode](https://go.dev/blog/deadcode) identifies code snippets that appear to be unused, generally recommended for removal.
+
+Note that deadcode has an implicit assumption that at least one `main` application package is present, or at least one unit test is present and the `-test` flag is supplied to deadcode. This may not always interact well with Go projects that act as simple convenience wrappers around CLI tools.
+
 [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) supplements `go fmt` by organizing imports.
 
 [golint](https://github.com/bytbox/golint) was an early stage Go linter, since deprecated in favor of staticcheck.
