@@ -58,6 +58,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [proselint](https://github.com/amperser/proselint/) is a linter for usage and style errors in English prose.
 
+[Snyk](https://snyk.io/) provides SCA capabilities to report known vulnerabilities for projects, across a wide variety of programming languages and frameworks.
+
 [Sonarqube](http://www.sonarqube.org/) is a cross-programming language linting system.
 
 [Phabricator Contributing Guide](http://www.phabricator.com/docs/phabricator/article/Contributor_Introduction.html#suggested-reading) offers coding standards generally, as well as for PHP, and JavaScript code specifically.
@@ -630,8 +632,6 @@ GNU make offers an additional `--warn-undefined-variables` flag to check for... 
 [Python Style Guide](http://www.python.org/doc/essays/styleguide/) is a collection of documents for community standards for Python code style.
 
 [refurb](https://github.com/dosisod/refurb) recommends Python idioms.
-
-[safety](https://pypi.org/project/safety/) identifies installed pip packages known to include vulnerabilities.
 
 [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) is the strictest and most opinionated python linter ever.
 
