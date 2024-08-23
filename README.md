@@ -100,6 +100,10 @@ Note that Snyk Open Source neglects to scan JAR files, Ivy, or Ant projects.
 
 [wc](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/wc.html) is a line counter for UNIX systems.
 
+## .NET
+
+The [dotnet](https://dotnet.microsoft.com/en-us/) build system features built-in SCA to warn on vulnerabilities in project dependencies.
+
 ## Android
 
 [lint](http://developer.android.com/tools/help/lint.html) is a tool for static analysis of Android projects.
