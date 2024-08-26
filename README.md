@@ -657,6 +657,8 @@ CRAN has a [lint](http://cran.r-project.org/web/packages/lint/index.html) packag
 
 ## Ruby
 
+[bundler-audit](https://github.com/rubysec/bundler-audit) scans dependencies for known vulnerabilities.
+
 [contracts.ruby](http://egonschiele.github.io/contracts.ruby/) provides a dynamically enforced type safety system.
 
 [reek](https://github.com/troessner/reek) has an extensive list of checks for improving your code.
