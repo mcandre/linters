@@ -483,7 +483,7 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 [PMD](http://pmd.sourceforge.net/) detects flaws and duplicated code.
 
-## JavaScript / Node.js
+## JavaScript / ECMAScript / Node.js / altJS
 
 [CLosure Compiler](https://developers.google.com/closure/) refactors code to improve performance.
 
@@ -502,6 +502,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 [JSLint Errors](http://linterrors.com/js) explains warnings you may see from JSHint or JSLint.
 
 [npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) is a configurable linter to enforce standards in npm package.json files.
+
+[periscope](https://github.com/mcandre/periscope) warns on unscoped NPM packages.
 
 [rslint](https://rslint.org/) is a fast JavaScript linter.
 
