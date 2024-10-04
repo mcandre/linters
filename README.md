@@ -423,23 +423,25 @@ The standard [govulncheck](https://go.dev/blog/govulncheck) utility scans for vu
 
 Note that deadcode has an implicit assumption that at least one `main` application package is present, or at least one unit test is present and the `-test` flag is supplied to deadcode. This may not always interact well with Go projects that act as simple convenience wrappers around CLI tools.
 
+[errcheck](https://github.com/kisielk/errcheck) identifies unchecked errors. In particular, the `-blank` flag (disabled by default) identifies errors assigned to `_`.
+
 [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) supplements `go fmt` by organizing imports.
 
-[golint](https://github.com/bytbox/golint) was an early stage Go linter, since deprecated in favor of staticcheck.
+[golint](https://github.com/bytbox/golint) was an early stage Go linter, since deprecated in favor of revive + staticcheck.
 
 [golang/lint](https://github.com/golang/lint)
 
-[errcheck](https://github.com/kisielk/errcheck) identifies unchecked errors. In particular, the `-blank` flag (disabled by default) identifies errors assigned to `_`.
+[gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) recommends more idiomatic code forms.
+
+[megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) runs staticcheck, gosimple, and unused.
 
 [nakedret](https://github.com/alexkohler/nakedret) identifies named returns, which often present unexpected behavior that can obfuscate error messages. Recommended usage: `nakedret -l 0 ./...`
 
 [opennota/check](https://github.com/opennota/check) includes linters for reducing in-memory and in-transit struct size; identifying unused struct fields; and identifying unused global variables and constants.
 
-[megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) runs staticcheck, gosimple, and unused.
+[revive](https://revive.run/) checks for unused variables and undocumented public API members.
 
 [staticcheck](https://staticcheck.io/) adds additional checks compared to the built-in `go vet` tool.
-
-[gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) recommends more idiomatic code forms.
 
 [unconvert](https://github.com/mdempsky/unconvert) detects redundant conversions.
 
