@@ -487,6 +487,10 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## JavaScript / ECMAScript / Node.js / altJS
 
+[npm](https://www.npmjs.com/) includes automatic SCA security scans.
+
+[yarn](https://yarnpkg.com/) provides a `yarn npm audit --all --recursive` SCA command.
+
 [CLosure Compiler](https://developers.google.com/closure/) refactors code to improve performance.
 
 [Closure Linter](https://pypi.python.org/pypi/closure_linter/) checks JavaScript for conformance to the Google Style Guide.
