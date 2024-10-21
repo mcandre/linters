@@ -24,6 +24,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 ## *
 
+[actionlint](https://github.com/marketplace/actions/actionlint) identifies quirks in GitHub Actions CI/CD jobs.
+
 [anorack](https://github.com/jwilk/anorack) is a specialized spell-checker that finds incorrect indefinite articles.
 
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
