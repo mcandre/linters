@@ -601,6 +601,8 @@ GNU make offers an additional `--warn-undefined-variables` flag to check for... 
 
 [php](http://php.net/) comes with a built-in `-l` option to check for valid syntax.
 
+[Composer](https://getcomposer.org/) includes SCA with `composer audit`.
+
 [PHPMD](http://phpmd.org/) is a configurable frontend for static checks.
 
 [PHP Code Sniffer](http://pear.php.net/package/PHP_CodeSniffer) checks .php, .js, and .css code for style.
