@@ -106,7 +106,7 @@ Note that Snyk Open Source neglects to scan JAR files, Ivy, or Ant projects.
 
 ## .NET
 
-The [dotnet](https://dotnet.microsoft.com/en-us/) build system features built-in SCA to warn on vulnerabilities in project dependencies.
+The [dotnet](https://dotnet.microsoft.com/en-us/) build system features built-in SCA capability to warn on vulnerabilities in project dependencies. The project setting `Project.PropertyGroup.AnalysisMode` (e.g. value `All`) enables SAST. Setting `Project.PropertyGroup.TreatWarningsAsErrors` to `true` enforces these checks.
 
 ## Android
 
