@@ -36,6 +36,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [cicada](https://github.com/mcandre/cicada) scans environments for software components at risk of falling off of LTS security support timelines.
 
+[conan](https://conan.io/) provides an audit subcommand to scan C/C++ projects for security vulnerabilities.
+
 GitHub provides [Dependabot](https://docs.github.com/en/code-security) and [CodeQL](https://codeql.github.com/) (opt-in) to scan GitHub repositories.
 
 GitLab provides [Dependency Scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) and [SAST](https://docs.gitlab.com/ee/user/application_security/sast/) to scan GitLab repositories.
