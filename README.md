@@ -826,5 +826,5 @@ A [make](https://www.gnu.org/software/make/) task can bundle several linters tog
 # See Also
 
 * [Awesome Linters](https://github.com/caramelomartins/awesome-linters)
-* [Testing Frameworks](https://github.com/mcandre/testing-frameworks)
+* [mcandre/testing-frameworks](https://github.com/mcandre/testing-frameworks)
 * [Wikipedia List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
