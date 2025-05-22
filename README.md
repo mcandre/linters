@@ -94,6 +94,8 @@ Note that Snyk Open Source neglects to scan JAR files, Ivy, or Ant projects.
 
 [vuls](https://vuls.io/) scans assorted computing environments for CVE's.
 
+[Vulert](Vulert.com) Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
+
 [Web Package Update Checker](https://github.com/fulldecent/web-puc) validates web projects to ensure they use the latest available versions of web packages (like Bootstrap, Font Awesome, JQuery).
 
 [write-good](https://github.com/btford/write-good) validates english prose with the aim of helping developers write better code.
