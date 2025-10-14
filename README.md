@@ -445,8 +445,6 @@ Note that deadcode has an implicit assumption that at least one `main` applicati
 
 [opennota/check](https://github.com/opennota/check) includes linters for reducing in-memory and in-transit struct size; identifying unused struct fields; and identifying unused global variables and constants.
 
-[revive](https://revive.run/) checks for unused variables and undocumented public API members.
-
 [staticcheck](https://staticcheck.io/) adds additional checks compared to the built-in `go vet` tool.
 
 [unconvert](https://github.com/mdempsky/unconvert) detects redundant conversions.
