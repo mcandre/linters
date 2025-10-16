@@ -729,6 +729,8 @@ The Rust package manager provides a `cargo check` command as a faster, surface l
 
 [cargo-audit](https://crates.io/crates/cargo-audit) scans Rust dependencies for vulnerabilities.
 
+[cargo-edit](https://crates.io/crates/cargo-edit) provides `cargo upgrade`, which in concert with `cargo update`, helps engineers to not fall so far behind software updates.
+
 [rustfmt](https://github.com/rust-lang/rustfmt) for styling.
 
 ## Sass
