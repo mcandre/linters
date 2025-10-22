@@ -525,6 +525,8 @@ In Java 8, javac will feature an `-Xdoclint` option to identify undocumented cod
 
 ## JSON
 
+[kirill](https://github.com/mcandre/kirill) validates JSON files, JSON Schema instances, and JSON5 files.
+
 [json.py](http://docs.python.org/2/library/json.html) is a built-in Python module, offering a `-mjson.tool` option for linting JSON files.
 
 [jq](http://stedolan.github.io/jq/) isn't a linter per-se, but jq can prettify JSON for creating more readable code examples.
