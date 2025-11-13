@@ -30,6 +30,8 @@ Many compilers include an option like `-Wall` to turn on warnings, `-Wextra` for
 
 [astyle](http://astyle.sourceforge.net/) can help enforce a uniform coding style in a large software project.
 
+[chandler](https://github.com/mcandre/chandler) normalizes tar files.
+
 [check-all-the-things](https://anonscm.debian.org/cgit/collab-maint/check-all-the-things.git/plain/doc/README) is a command-line tool for automatically running many static analysis and similar tools over packages and upstream codebases.
 
 [checkov](https://www.checkov.io/) scans cloud resources for CVE's, including Kubertes and Terraform projects.
