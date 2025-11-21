@@ -826,3 +826,9 @@ A [make](https://www.gnu.org/software/make/) task can bundle several linters tog
 * [Awesome Linters](https://github.com/caramelomartins/awesome-linters)
 * [mcandre/testing-frameworks](https://github.com/mcandre/testing-frameworks)
 * [Wikipedia List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
+
+# Bad Actors
+
+Note that none of the Go stylizing linters, including Go's stock `gofmt`, as well as third party linters, are able to support intuitive, consistent formatting for mathemtical expressions.
+
+Many commercial security vendors have pricing tier structures that fail to support the sea of FOSS that underpins the entire software industry.
