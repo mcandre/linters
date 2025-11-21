@@ -66,12 +66,6 @@ GitLab provides [Dependency Scanning](https://docs.gitlab.com/ee/user/applicatio
 
 [proselint](https://github.com/amperser/proselint/) is a linter for usage and style errors in English prose.
 
-[Snyk](https://snyk.io/) provides SCA capabilities to report known vulnerabilities for projects, across a wide variety of programming languages and frameworks.
-
-Note that Snyk Open Source neglects to scan `requirements-dev.txt` and similar industry conventional configurations for tracking development environment dependencies.
-
-Note that Snyk Open Source neglects to scan JAR files, Ivy, or Ant projects.
-
 [Sonarqube](http://www.sonarqube.org/) is a cross-programming language linting system.
 
 [Phabricator Contributing Guide](http://www.phabricator.com/docs/phabricator/article/Contributor_Introduction.html#suggested-reading) offers coding standards generally, as well as for PHP, and JavaScript code specifically.
