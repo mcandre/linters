@@ -58,29 +58,29 @@ GitLab provides [Dependency Scanning](https://docs.gitlab.com/ee/user/applicatio
 
 [dotenv-linter](https://github.com/wemake-services/dotenv-linter) finds errors and stylistic violations in `.env` files.
 
+[google-styleguide](https://code.google.com/p/google-styleguide/) is a collection of documents detailing Google's preferred code style, for a variety of programming languages and data formats.
+
+[Hemingway](http://www.hemingwayapp.com/) is a software application for improving the readability of English text. By using Hemingway, we can make our documentation more understandable for others.
+
 [KICS](https://kics.io/) scans Docker and Kubernetes resources.
 
 [lint-spaces](https://github.com/schorfES/node-lintspaces) checks line endings and indentation.
 
-[pfff](https://github.com/facebook/pfff/) is a collection of tools by Facebook for analyzing code style, with support for multiple programming languages.
-
-[proselint](https://github.com/amperser/proselint/) is a linter for usage and style errors in English prose.
-
-[Sonarqube](http://www.sonarqube.org/) is a cross-programming language linting system.
-
-[Phabricator Contributing Guide](http://www.phabricator.com/docs/phabricator/article/Contributor_Introduction.html#suggested-reading) offers coding standards generally, as well as for PHP, and JavaScript code specifically.
-
-[google-styleguide](https://code.google.com/p/google-styleguide/) is a collection of documents detailing Google's preferred code style, for a variety of programming languages and data formats.
-
-[Hemingway](http://www.hemingwayapp.com/) is a software application for improving the readability of English text. By using Hemingway, we can make our documentation more understandable for others.
+[Microsoft patterns & practices](http://pnp.azurewebsites.net/en-us/) are recommended for .NET projects.
 
 [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style?redirectlocale=en-US&redirectslug=Mozilla_Coding_Style_Guide) is a document detailing Mozilla's preferred coding style.
 
 [MSDN Library: Coding Techniques and Programming Practices](http://msdn.microsoft.com/en-us/library/aa260844(v=vs.60).aspx) offers general tips for coding.
 
-[Microsoft patterns & practices](http://pnp.azurewebsites.net/en-us/) are recommended for .NET projects.
-
 [MSDN Library: Design Guidelines for Class Library Developers](http://msdn.microsoft.com/en-us/library/czefa0ke%28VS.71%29.aspx) presents guidelines for .NET library developers.
+
+[pfff](https://github.com/facebook/pfff/) is a collection of tools by Facebook for analyzing code style, with support for multiple programming languages.
+
+[Phabricator Contributing Guide](http://www.phabricator.com/docs/phabricator/article/Contributor_Introduction.html#suggested-reading) offers coding standards generally, as well as for PHP, and JavaScript code specifically.
+
+[proselint](https://github.com/amperser/proselint/) is a linter for usage and style errors in English prose.
+
+[Sonarqube](http://www.sonarqube.org/) is a cross-programming language linting system.
 
 [sunshine](https://github.com/mcandre/sunshine) validates chmod permissions, such as for SSH files.
 
