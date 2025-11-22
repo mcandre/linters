@@ -84,6 +84,8 @@ GitLab provides [Dependency Scanning](https://docs.gitlab.com/ee/user/applicatio
 
 [sunshine](https://github.com/mcandre/sunshine) validates chmod permissions, such as for SSH files.
 
+[todolint](https://github.com/mcandre/todolint) identifies bugs via comments.
+
 [trufflehog](https://github.com/trufflesecurity/trufflehog) reports credential exposure.
 
 [Vale](https://github.com/errata-ai/vale) validates English text against a wide variety of prebuilt style guides, and is easily and highly configurable.
