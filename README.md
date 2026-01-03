@@ -1,8 +1,14 @@
 # Linter Community Wiki
 
-Welcome!
+[![Donate](https://img.shields.io/badge/GUMROAD-36a9ae?style=flat&logo=gumroad&logoColor=white)](https://mcandre.gumroad.com/)
 
-# What is a linter?
+# ABOUT
+
+mcandre/linters curates a collection of static analysis tools, that can dramatically improve the quality of your software projects.
+
+# WHAT IS A LINTER?
+
+Welcome!
 
 Originally, `lint` was a tool for scanning C code for potentially risky lines of code.
 
