@@ -104,7 +104,9 @@ GitLab provides [Dependency Scanning](https://docs.gitlab.com/ee/user/applicatio
 
 [sloccount](http://www.dwheeler.com/sloccount/) is an older line counter.
 
-[cloc](https://github.com/AlDanial/cloc) is a newer line counter with support for more programming languages.
+[tokei](https://github.com/xampprocky/tokei) is a Rust based line counter.
+
+[cloc](https://github.com/AlDanial/cloc) is a Perl based line counter.
 
 [wc](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/wc.html) is a line counter for UNIX systems.
 
