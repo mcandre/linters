@@ -1,6 +1,6 @@
 # Linter Community Wiki
 
-[![License](https://badgen.net/static/license/CC?color=fff&icon=creative-commons)](LICENSE.md) [![Donate](https://badgen.net/static/sponsor/%E2%99%A5?color=bf3988&icon=github)](https://github.com/sponsors/mcandre)
+[![License](https://badgen.net/static/license/CC?color=fff&icon=creative-commons)](LICENSE.md) [![AI](https://badgen.net/static/人/NO%20AI?color=aa4a44)](AI-DECLARATION.md) [![Donate](https://badgen.net/static/sponsor/%E2%99%A5?color=bf3988&icon=github)](https://github.com/sponsors/mcandre)
 
 # ABOUT
 
